@@ -1,0 +1,38 @@
+{
+  "title": "IMG 8136",
+  "alt": "IMG 8136",
+  "date": "2026-04-05T04:18:44.770Z",
+  "category": "street",
+  "featured": false,
+  "image": {
+    "width": 2880,
+    "height": 3840,
+    "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASoYACAAPzl+vlQvJ6ajMBgMAeAnCUAZGoaN/eJquYaZQyL3PmvjEXaDAAD+6nrw9E/QcuPozfPEoVZQdZNiRcmCcH0pzZbK+Q+mw+8IXGDPvoy9QKtjZI8AAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8136-932145c5/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8136-932145c5/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8136-932145c5/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8136-932145c5/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8136-932145c5/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8136-932145c5/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "18mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/1000s",
+    "iso": 100
+  },
+  "tags": []
+}

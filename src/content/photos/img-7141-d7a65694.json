@@ -1,0 +1,38 @@
+{
+  "title": "IMG 7141",
+  "alt": "IMG 7141",
+  "date": "2025-12-20T05:20:27.110Z",
+  "category": "street",
+  "featured": false,
+  "image": {
+    "width": 2560,
+    "height": 3840,
+    "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADwBQCdASoYACQAPzmSwVkvKicjpWsx4CcJZQDLpCjX/LYXhzKjoqqHkILncQIok1aoibuSuoqhEAD+qjQnVr55MpK1RilByaqCRZRpHpJZZOzfWyVnE9uW3URfReMZ43zgUsCdVaTVOiurHQ+SeG+29FYAsph7WjkNN6bTo0lLWHpBqZD19ImTFC+2qrsTi6UapAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7141-d7a65694/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7141-d7a65694/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7141-d7a65694/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7141-d7a65694/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7141-d7a65694/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7141-d7a65694/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "70mm",
+    "aperture": "f/4",
+    "shutterSpeed": "1/160s",
+    "iso": 250
+  },
+  "tags": []
+}

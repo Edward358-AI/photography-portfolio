@@ -1,0 +1,38 @@
+{
+  "title": "IMG 7858",
+  "alt": "IMG 7858",
+  "date": "2026-03-25T04:48:29.460Z",
+  "category": "nature",
+  "featured": false,
+  "image": {
+    "width": 2560,
+    "height": 3840,
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBQCdASoYACQAPzmUwFkvKiajqrgIAeAnCUAACxHYckA5mMS/SC0wGKGQzG5oi43ofYXAAMkxhgLIieClNauXaNUfQs9njCkQz0RLiAIFAhkfA8jaaO8rgckvyxXbHRs9c5BAJ6FeXb1dazQLPdp+xbcNHAwHjIZm1GyClxcWZddYRNAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7858-615ed04c/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7858-615ed04c/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7858-615ed04c/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7858-615ed04c/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7858-615ed04c/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7858-615ed04c/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-200mm f/4L IS USM",
+    "focalLength": "97mm",
+    "aperture": "f/4",
+    "shutterSpeed": "1/200s",
+    "iso": 200
+  },
+  "tags": []
+}

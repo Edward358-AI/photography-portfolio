@@ -1,0 +1,43 @@
+{
+  "title": "MG 3381 Enhanced NR",
+  "alt": "MG 3381 Enhanced NR",
+  "date": "2025-10-10T06:22:35.200Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 2160,
+    "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoYAA4APzmGuVOvKSWisAgB4CcJYgCdAB6F+XQdBuvSAP6ew576t3iGtAm+LSKcHhrvXBd9oW5AHwLXJ7xiR2FaZnrauAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3381-enhanced-nr-123e99a2/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3381-enhanced-nr-123e99a2/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3381-enhanced-nr-123e99a2/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3381-enhanced-nr-123e99a2/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3381-enhanced-nr-123e99a2/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3381-enhanced-nr-123e99a2/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3381-enhanced-nr-123e99a2/3840.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3381-enhanced-nr-123e99a2/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "289mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/30s",
+    "iso": 100
+  },
+  "tags": []
+}

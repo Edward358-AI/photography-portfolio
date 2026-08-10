@@ -1,0 +1,43 @@
+{
+  "title": "IMG 8195",
+  "alt": "IMG 8195",
+  "date": "2026-04-05T04:33:56.580Z",
+  "category": "nature",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 2560,
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoYABAAPzmGuVOvKSWisAgB4CcJQAAJQsWLHJWmU4YoAAD+zagluhobHGK3NL2b9e7JEm9XcqTfFHF+LFrCUdITyG9dy0Vk/wAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8195-ef051a0b/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8195-ef051a0b/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8195-ef051a0b/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8195-ef051a0b/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8195-ef051a0b/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8195-ef051a0b/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8195-ef051a0b/3840.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8195-ef051a0b/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "45mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/125s",
+    "iso": 100
+  },
+  "tags": []
+}

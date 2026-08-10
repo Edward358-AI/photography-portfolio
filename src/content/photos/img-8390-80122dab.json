@@ -1,0 +1,43 @@
+{
+  "title": "IMG 8390",
+  "alt": "IMG 8390",
+  "date": "2026-04-05T07:31:11.400Z",
+  "category": "landscape",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 2560,
+    "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoYABAAPzmKulOvKaWisAgB4CcJbACdMoACpiC7tZ3Lou4AAP6pgnPv9vZl/wcU238O2dVcc2Re1Sz/gxk9zrtmvoHE5sQ50J7Nw55Weqd22k+OYxnvyWk2J2pexxjFwAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8390-80122dab/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8390-80122dab/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8390-80122dab/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8390-80122dab/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8390-80122dab/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8390-80122dab/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8390-80122dab/3840.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8390-80122dab/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "150mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/4000s",
+    "iso": 100
+  },
+  "tags": []
+}

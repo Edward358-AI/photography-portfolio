@@ -1,0 +1,38 @@
+{
+  "title": "IMG 8005",
+  "alt": "IMG 8005",
+  "date": "2026-04-05T03:19:41.050Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 2560,
+    "height": 3840,
+    "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACQBACdASoYACQAPzmMu1UvKaYjMBqoAeAnCWUAy6QWbWbj6wcWwQC1s0MvewAA/riIlhoChas7HuDV4mrLYiyIIBFfin1RJN+PBUFBkMQuEeihoHaMAAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8005-42e605d4/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8005-42e605d4/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8005-42e605d4/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8005-42e605d4/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8005-42e605d4/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8005-42e605d4/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "165mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/800s",
+    "iso": 100
+  },
+  "tags": []
+}

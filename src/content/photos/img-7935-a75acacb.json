@@ -1,0 +1,38 @@
+{
+  "title": "IMG 7935",
+  "alt": "IMG 7935",
+  "date": "2026-04-04T23:54:31.350Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 2560,
+    "height": 3840,
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACQBgCdASoYACQAPzmOvFYvKiYjsBVYAeAnCWIAnTNZjSQ5qlJ2lCxk3ItgGy52ri7shxDH/PSzCXukmOIAAP7SQ0gpWzFXITTMA0Ipha0ULuZvZZGuUPl0qJv/XkyFCjuUqFtIS+osRd09+tGMvAZSiw+/tonY2qkA8gQe2WJ+E0v2ZLT1RQJKKdDnoYdBPN9fknQZrm3pJp0XCRMul0AA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7935-a75acacb/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7935-a75acacb/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7935-a75acacb/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7935-a75acacb/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7935-a75acacb/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7935-a75acacb/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "140mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/400s",
+    "iso": 100
+  },
+  "tags": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "IMG 2597",
+  "alt": "IMG 2597",
+  "date": "2025-10-07T10:19:30.920Z",
+  "category": "nature",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 3840,
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQBACdASoYABgAPzl+uFOvJ6Uit/VYAeAnCWcAAC32Bw8W6ipCFrk+9xPQmu/wAAD+69AqOpmo+0Q1KsIzGfMK2NulTNkgAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-2597-315903f7/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-2597-315903f7/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-2597-315903f7/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-2597-315903f7/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-2597-315903f7/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-2597-315903f7/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-2597-315903f7/3840.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-2597-315903f7/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "500mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/1000s",
+    "iso": 200
+  },
+  "tags": []
+}

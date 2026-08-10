@@ -1,0 +1,43 @@
+{
+  "title": "MG 4585 Enhanced NR",
+  "alt": "MG 4585 Enhanced NR",
+  "date": "2025-10-18T06:53:41.470Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 1920,
+    "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACQAwCdASoYAAwAPzmGulOvKSWisAgB4CcJZAC7ACHWrJbLe87QAP1DOGBC5HkL2dkOUeFsQpYy3fwrfKQwhHDBoAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-4585-enhanced-nr-3791a931/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-4585-enhanced-nr-3791a931/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-4585-enhanced-nr-3791a931/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-4585-enhanced-nr-3791a931/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-4585-enhanced-nr-3791a931/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-4585-enhanced-nr-3791a931/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-4585-enhanced-nr-3791a931/3840.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-4585-enhanced-nr-3791a931/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "340mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/13s",
+    "iso": 1600
+  },
+  "tags": []
+}

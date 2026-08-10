@@ -34,7 +34,7 @@ import { exiftool } from 'exiftool-vendored';
 import sharp from 'sharp';
 
 // Keep in sync with CATEGORIES in src/site.config.ts
-const CATEGORIES = ['aviation', 'landscape', 'cityscape', 'nature'];
+const CATEGORIES = ['aviation', 'landscape', 'cityscape', 'street', 'nature'];
 const TARGET_WIDTHS = [640, 1080, 1920, 3840];
 const INPUT_EXT = /\.(jpe?g|png)$/i;
 
@@ -136,6 +136,9 @@ function fmtCamera(make, model) {
 const omitUndefined = (obj) =>
   Object.fromEntries(Object.entries(obj).filter(([, v]) => v !== undefined));
 
+/** JSON.parse that tolerates a UTF-8 BOM (Windows editors/shells add them). */
+const parseJson = (text) => JSON.parse(text.replace(/^﻿/, ''));
+
 /* ----------------------------------------------------------- R2 client --- */
 
 let r2 = null;
@@ -202,7 +205,7 @@ async function main() {
     process.exit(1);
   }
 
-  const manifest = existsSync(MANIFEST_PATH) ? JSON.parse(await readFile(MANIFEST_PATH, 'utf8')) : {};
+  const manifest = existsSync(MANIFEST_PATH) ? parseJson(await readFile(MANIFEST_PATH, 'utf8')) : {};
   const batch = [];
   for (const entry of await readdir(stagingDir, { withFileTypes: true })) {
     if (!entry.isDirectory()) {
@@ -297,7 +300,7 @@ async function main() {
       let existing = {};
       if (existsSync(jsonPath)) {
         try {
-          existing = JSON.parse(await readFile(jsonPath, 'utf8'));
+          existing = parseJson(await readFile(jsonPath, 'utf8'));
         } catch {
           existing = {};
         }

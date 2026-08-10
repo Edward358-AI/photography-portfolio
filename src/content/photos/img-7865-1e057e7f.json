@@ -1,0 +1,38 @@
+{
+  "title": "IMG 7865",
+  "alt": "IMG 7865",
+  "date": "2026-04-04T21:49:21.190Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 2560,
+    "height": 3840,
+    "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADQBQCdASoYACQAPzmKuFOvKaUisBqqqeAnCUAZVoHNSK4I48EALuayE9OABjBucibJBENWSGUQAP5UMI9bd+wgxEXwHMGAFl6qv2fguTVruM5/JVnfUSFjHvYX0BWVQxgl/R3i5yFwXV1/gsKDkWkPLqkY8p+yJ4MK6Q0Ybb5blCP/MNwFClcG3QqvUPgAAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7865-1e057e7f/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7865-1e057e7f/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7865-1e057e7f/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7865-1e057e7f/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7865-1e057e7f/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-7865-1e057e7f/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "20mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/400s",
+    "iso": 100
+  },
+  "tags": []
+}

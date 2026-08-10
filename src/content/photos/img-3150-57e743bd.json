@@ -1,0 +1,43 @@
+{
+  "title": "IMG 3150",
+  "alt": "IMG 3150",
+  "date": "2025-10-10T03:06:45.120Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 2560,
+    "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAwCdASoYABAAPzmYvlYvLCajsAgB4CcJaQAAV+qhmVlAv+iAxgAA/jjqBKX6xnPQSqzT7Mr0gp43CsRKC5jsAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-3150-57e743bd/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-3150-57e743bd/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-3150-57e743bd/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-3150-57e743bd/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-3150-57e743bd/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-3150-57e743bd/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-3150-57e743bd/3840.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-3150-57e743bd/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "403mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/2500s",
+    "iso": 250
+  },
+  "tags": []
+}

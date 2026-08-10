@@ -1,0 +1,43 @@
+{
+  "title": "MG 3552 Enhanced NR",
+  "alt": "MG 3552 Enhanced NR",
+  "date": "2025-10-10T06:42:25.330Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 2160,
+    "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoYAA4APzmGuVOvKSWisAgB4CcJQBOgA2WT4SrppJsMQAD+dxfZSqq6DbhAXDSPr/dA0oPzrLoJ3BG8J5+7gkuRSCYAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3552-enhanced-nr-f8e80013/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3552-enhanced-nr-f8e80013/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3552-enhanced-nr-f8e80013/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3552-enhanced-nr-f8e80013/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3552-enhanced-nr-f8e80013/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3552-enhanced-nr-f8e80013/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3552-enhanced-nr-f8e80013/3840.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/mg-3552-enhanced-nr-f8e80013/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "370mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/30s",
+    "iso": 400
+  },
+  "tags": []
+}

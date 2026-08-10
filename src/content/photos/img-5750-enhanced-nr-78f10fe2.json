@@ -1,0 +1,43 @@
+{
+  "title": "IMG 5750 Enhanced NR",
+  "alt": "IMG 5750 Enhanced NR",
+  "date": "2025-11-01T06:30:28.770Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 2160,
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAwCdASoYAA4APzmGulQvKSWjMAgB4CcJQBWABDs0SRck/kMAAP6c+ojUjk3l3Qsxk6h7FKfh+v7uy9Djnr9x1AmyoAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-5750-enhanced-nr-78f10fe2/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-5750-enhanced-nr-78f10fe2/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-5750-enhanced-nr-78f10fe2/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-5750-enhanced-nr-78f10fe2/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-5750-enhanced-nr-78f10fe2/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-5750-enhanced-nr-78f10fe2/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-5750-enhanced-nr-78f10fe2/3840.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-5750-enhanced-nr-78f10fe2/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "340mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/20s",
+    "iso": 640
+  },
+  "tags": []
+}
