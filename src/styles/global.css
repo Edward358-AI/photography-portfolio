@@ -4,8 +4,10 @@
   --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
   --font-display: "Space Grotesk Variable", "Inter Variable", ui-sans-serif, system-ui, sans-serif;
 
-  /* Dark gallery palette — near-black so the photographs carry the color. */
-  --color-base: #0b0b0d;
+  /* Dark gallery palette — near-black so the photographs carry the color.
+     NB: don't name a color "base" — it would generate a `text-base` color
+     utility that collides with Tailwind's `text-base` font-size utility. */
+  --color-canvas: #0b0b0d;
   --color-surface: #141417;
   --color-raised: #1b1b20;
   --color-line: #26262c;
@@ -18,7 +20,7 @@
 /* ---------------------------------------------------------------- base --- */
 
 html {
-  background-color: var(--color-base);
+  background-color: var(--color-canvas);
   color: var(--color-fg);
   color-scheme: dark;
   scrollbar-gutter: stable;

@@ -16,7 +16,6 @@
     "ingest": "node scripts/ingest/index.mjs"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.0",
     "@astrojs/sitemap": "^3.4.0",
     "@fontsource-variable/inter": "^5.2.0",
     "@fontsource-variable/space-grotesk": "^5.2.0",

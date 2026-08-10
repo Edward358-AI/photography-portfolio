@@ -64,8 +64,7 @@ written to content JSON.
 
 Delete `src/content/photos/*.json`, `scripts/ingest/manifest.json`, `staging/`, and
 `public/images/`, then ingest your real photos. Also personalize
-[src/site.config.ts](src/site.config.ts), [src/pages/about.astro](src/pages/about.astro), and
-the sample write-up in `src/content/projects/`.
+[src/site.config.ts](src/site.config.ts) and [src/pages/about.astro](src/pages/about.astro).
 
 ## Version notes
 

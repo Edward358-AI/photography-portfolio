@@ -45,18 +45,4 @@ const photos = defineCollection({
   }),
 });
 
-/** Software project write-ups, authored by hand as MDX. Slug = filename. */
-const projects = defineCollection({
-  loader: glob({ pattern: '**/*.mdx', base: './src/content/projects' }),
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    techStack: z.array(z.string()).default([]),
-    githubUrl: z.string().url().optional(),
-    liveUrl: z.string().url().optional(),
-    /** Lower numbers list first. */
-    featuredOrder: z.number().int().default(999),
-  }),
-});
-
-export const collections = { photos, projects };
+export const collections = { photos };

@@ -5,15 +5,14 @@ export const SITE = {
   /** Shown in the header, footer and page titles. */
   name: 'Edward Jiang',
   title: 'Edward Jiang — Photography',
-  tagline: 'Aviation, landscape, cityscape & nature photography — and the software I build.',
+  tagline: 'Aviation, landscape, cityscape & nature photography.',
   description:
-    'Photography portfolio of Edward Jiang: aviation, landscape, cityscape and nature work, plus software project write-ups.',
+    'Photography portfolio of Edward Jiang: aviation, landscape, cityscape and nature work.',
   github: 'Edward358-AI',
   /** Add more socials here and they appear in the footer. */
   socials: [{ label: 'GitHub', href: 'https://github.com/Edward358-AI' }],
   nav: [
     { label: 'Photos', href: '/photos/' },
-    { label: 'Projects', href: '/projects/' },
     { label: 'About', href: '/about/' },
   ],
 } as const;

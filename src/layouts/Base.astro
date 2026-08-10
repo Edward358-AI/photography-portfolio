@@ -35,8 +35,8 @@ const isActive = (href: string) => path.startsWith(href.replace(/\/$/, ''));
     {ogImageAbs && <meta property="og:image" content={ogImageAbs} />}
     <meta name="twitter:card" content={ogImageAbs ? 'summary_large_image' : 'summary'} />
   </head>
-  <body class="min-h-dvh flex flex-col bg-base text-fg">
-    <header class="sticky top-0 z-40 border-b border-line/70 bg-base/85 backdrop-blur">
+  <body class="min-h-dvh flex flex-col bg-canvas text-fg">
+    <header class="sticky top-0 z-40 border-b border-line/70 bg-canvas/85 backdrop-blur">
       <div class="mx-auto flex h-14 w-full max-w-7xl items-center justify-between px-4 sm:px-6">
         <a href="/" class="font-display text-[0.95rem] font-semibold tracking-wide hover:text-accent transition-colors">
           {SITE.name}
