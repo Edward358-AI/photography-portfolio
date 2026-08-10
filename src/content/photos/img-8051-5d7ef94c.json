@@ -11,23 +11,23 @@
     "variants": [
       {
         "width": 640,
-        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8051-5d7ef94c/640.avif",
-        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8051-5d7ef94c/640.webp"
+        "avif": "https://images.edj-photo.com/photos/img-8051-5d7ef94c/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-8051-5d7ef94c/640.webp"
       },
       {
         "width": 1080,
-        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8051-5d7ef94c/1080.avif",
-        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8051-5d7ef94c/1080.webp"
+        "avif": "https://images.edj-photo.com/photos/img-8051-5d7ef94c/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-8051-5d7ef94c/1080.webp"
       },
       {
         "width": 1920,
-        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8051-5d7ef94c/1920.avif",
-        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8051-5d7ef94c/1920.webp"
+        "avif": "https://images.edj-photo.com/photos/img-8051-5d7ef94c/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-8051-5d7ef94c/1920.webp"
       },
       {
         "width": 3840,
-        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8051-5d7ef94c/3840.avif",
-        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/img-8051-5d7ef94c/3840.webp"
+        "avif": "https://images.edj-photo.com/photos/img-8051-5d7ef94c/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-8051-5d7ef94c/3840.webp"
       }
     ]
   },
