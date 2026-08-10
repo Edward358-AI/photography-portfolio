@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import CategoryTabs from '../../components/CategoryTabs.astro';
 import Gallery from '../../components/Gallery.astro';
 import Base from '../../layouts/Base.astro';
-import { CATEGORIES, CATEGORY_LABELS, type Category } from '../../site.config';
+import { CATEGORIES, CATEGORY_LABELS, SITE, type Category } from '../../site.config';
 
 export function getStaticPaths() {
   return CATEGORIES.map((category) => ({ params: { category } }));
@@ -17,7 +17,7 @@ const photos = (await getCollection('photos', (p) => p.data.category === categor
 const og = photos[0]?.data.image.variants.find((v) => v.width >= 1080)?.webp;
 ---
 
-<Base title={`${label} photos`} description={`${label} photography by Edward Jiang.`} ogImage={og}>
+<Base title={`${label} photos`} description={`${label} photography by ${SITE.name}.`} ogImage={og}>
   <h1 class="mb-6 font-display text-2xl font-semibold tracking-tight">{label}</h1>
   <CategoryTabs current={category} />
   <Gallery photos={photos} eagerCount={6} />

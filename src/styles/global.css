@@ -110,24 +110,38 @@ body {
   opacity: 1;
 }
 
+/* Hover overlay: photo title + camera + settings, over a bottom gradient. */
 .card .card-overlay {
   position: absolute;
   inset: 0;
   display: flex;
-  align-items: flex-end;
-  padding: 0.7rem 0.85rem;
-  font-size: 0.8rem;
-  font-weight: 500;
-  letter-spacing: 0.01em;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 0.15rem;
+  padding: 0.75rem 0.9rem;
   color: #fff;
-  background: linear-gradient(to top, rgb(0 0 0 / 0.55), transparent 45%);
+  background: linear-gradient(to top, rgb(0 0 0 / 0.72), rgb(0 0 0 / 0.25) 42%, transparent 68%);
   opacity: 0;
   transition: opacity 0.25s ease;
+  pointer-events: none;
+}
+
+.card-overlay .ov-title {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.card-overlay .ov-meta {
+  font-size: 0.68rem;
+  line-height: 1.4;
+  color: rgb(255 255 255 / 0.78);
+  font-variant-numeric: tabular-nums;
 }
 
 @media (hover: hover) {
-  .card:hover .card-overlay,
-  .card:focus-visible .card-overlay {
+  .card:hover .card-overlay {
     opacity: 1;
   }
   .card:hover img {
@@ -137,148 +151,6 @@ body {
     transition:
       opacity 0.45s ease,
       transform 0.6s ease;
-  }
-}
-
-/* ------------------------------------------------------------ lightbox --- */
-
-.lightbox {
-  width: 100vw;
-  height: 100dvh;
-  max-width: none;
-  max-height: none;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  background: rgb(7 7 9 / 0.96);
-  color: var(--color-fg);
-}
-
-.lightbox::backdrop {
-  background: rgb(7 7 9 / 0.9);
-}
-
-.lightbox[open] {
-  display: grid;
-  grid-template-rows: 1fr auto;
-}
-
-.lb-stage {
-  position: relative;
-  display: grid;
-  min-height: 0;
-  padding: 3rem 3.5rem 0.75rem;
-  touch-action: pan-y;
-}
-
-.lb-frame {
-  display: grid;
-  place-items: center;
-  min-height: 0;
-  min-width: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.lb-frame picture {
-  display: contents;
-}
-
-.lb-frame img {
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  border-radius: 4px;
-  user-select: none;
-  -webkit-user-drag: none;
-  view-transition-name: lb-photo;
-}
-
-body:has(.lightbox[open]) {
-  overflow: hidden;
-}
-
-.lb-btn {
-  position: absolute;
-  z-index: 2;
-  display: grid;
-  place-items: center;
-  width: 2.75rem;
-  height: 2.75rem;
-  border-radius: 999px;
-  color: var(--color-muted);
-  background: rgb(255 255 255 / 0.05);
-  transition:
-    color 0.15s,
-    background 0.15s;
-}
-
-.lb-btn:hover {
-  color: #fff;
-  background: rgb(255 255 255 / 0.12);
-}
-
-.lb-close {
-  top: 0.9rem;
-  right: 0.9rem;
-}
-
-.lb-prev {
-  left: 0.75rem;
-  top: 50%;
-  translate: 0 -50%;
-}
-
-.lb-next {
-  right: 0.75rem;
-  top: 50%;
-  translate: 0 -50%;
-}
-
-.lb-meta {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.35rem 1.5rem;
-  padding: 0.9rem 1.25rem 1.1rem;
-  border-top: 1px solid var(--color-line);
-  font-size: 0.82rem;
-  color: var(--color-muted);
-}
-
-.lb-meta .lb-title {
-  font-family: var(--font-display);
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--color-fg);
-}
-
-.lb-meta .lb-exif {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem 1.1rem;
-  font-variant-numeric: tabular-nums;
-}
-
-.lb-meta .lb-exif span {
-  white-space: nowrap;
-}
-
-.lb-counter {
-  margin-left: auto;
-  color: var(--color-faint);
-  font-variant-numeric: tabular-nums;
-}
-
-@media (max-width: 640px) {
-  .lb-stage {
-    padding: 2.75rem 0.5rem 0.5rem;
-  }
-  .lb-prev,
-  .lb-next {
-    display: none; /* swipe instead */
   }
 }
 

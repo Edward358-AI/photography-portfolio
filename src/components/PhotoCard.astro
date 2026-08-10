@@ -14,9 +14,19 @@ const avifSrcset = d.image.variants.map((v) => `${v.avif} ${v.width}w`).join(', 
 const webpSrcset = d.image.variants.map((v) => `${v.webp} ${v.width}w`).join(', ');
 const fallback = (d.image.variants.find((v) => v.width >= 1080) ?? d.image.variants[d.image.variants.length - 1]).webp;
 const sizes = '(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw';
+
+const gear = [d.exif?.camera, d.exif?.lens].filter(Boolean).join(' · ');
+const settings = [
+  d.exif?.focalLength,
+  d.exif?.aperture,
+  d.exif?.shutterSpeed,
+  d.exif?.iso != null ? `ISO ${d.exif.iso}` : undefined,
+]
+  .filter(Boolean)
+  .join(' · ');
 ---
 
-<a class="card" href={`#p:${photo.id}`} style={`--r:${ratio.toFixed(4)}`} data-photo={photo.id} aria-label={`View ${d.title}`}>
+<figure class="card" style={`--r:${ratio.toFixed(4)}`}>
   <div class="ph" style={`background-image:url("${d.image.lqip}")`}>
     <picture>
       <source type="image/avif" srcset={avifSrcset} sizes={sizes} />
@@ -33,5 +43,9 @@ const sizes = '(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw';
       />
     </picture>
   </div>
-  <span class="card-overlay">{d.title}</span>
-</a>
+  <figcaption class="card-overlay">
+    <span class="ov-title">{d.title}</span>
+    {gear && <span class="ov-meta">{gear}</span>}
+    {settings && <span class="ov-meta">{settings}</span>}
+  </figcaption>
+</figure>
