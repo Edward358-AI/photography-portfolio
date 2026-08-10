@@ -80,6 +80,7 @@ Delete `src/content/photos/*.json`, `scripts/ingest/manifest.json`, `staging/`, 
 - `<picture>` AVIF → WebP with 640/1080/1920/3840 srcsets, explicit dimensions (zero CLS)
 - ~400-byte blurred `data:` URI placeholders — blur-up with no decoding JavaScript
 - Justified gallery rows in pure CSS (`flex-grow` ∝ aspect ratio) — no masonry library
-- EXIF (title, camera, settings) appears as a pure-CSS hover overlay on each photo; the only
-  client JS is a ~10-line blur-up fade script that Astro inlines
+- EXIF (title, camera, settings) appears as a pure-CSS hover overlay on each photo; clicking
+  enlarges the photo (capped at 1920px on the long side) with the same caption. One small
+  inlined script handles the blur-up fade and the viewer
 - First 6 images `loading="eager" fetchpriority="high"`; the rest lazy-load
