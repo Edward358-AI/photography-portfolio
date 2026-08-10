@@ -1,0 +1,38 @@
+{
+  "title": "desert monolith",
+  "alt": "desert monolith",
+  "date": "2026-01-05T01:31:56.000Z",
+  "category": "landscape",
+  "featured": false,
+  "image": {
+    "width": 2000,
+    "height": 2500,
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwBACdASoYAB4APzmQwFcvKacpqAqp4CcJQBbZAtkqwNI/8fPQkyKKMgAA/ucZSrzU7PveyztMXD4KC5AS0KHRlqnkUib2dtGrpldYzE563sAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "/images/photos/desert-monolith-1011c516/640.avif",
+        "webp": "/images/photos/desert-monolith-1011c516/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "/images/photos/desert-monolith-1011c516/1080.avif",
+        "webp": "/images/photos/desert-monolith-1011c516/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "/images/photos/desert-monolith-1011c516/1920.avif",
+        "webp": "/images/photos/desert-monolith-1011c516/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Sony ILCE-7RM5",
+    "lens": "FE 24-70mm F2.8 GM II",
+    "focalLength": "24mm",
+    "aperture": "f/13",
+    "shutterSpeed": "1/30s",
+    "iso": 100
+  },
+  "tags": []
+}

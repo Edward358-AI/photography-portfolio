@@ -1,0 +1,67 @@
+---
+import { getCollection } from 'astro:content';
+import Gallery from '../components/Gallery.astro';
+import ProjectCard from '../components/ProjectCard.astro';
+import Base from '../layouts/Base.astro';
+import { SITE } from '../site.config';
+
+const all = (await getCollection('photos')).sort((a, b) => +b.data.date - +a.data.date);
+const featured = all.filter((p) => p.data.featured);
+const showcase = (featured.length ? featured : all).slice(0, 9);
+const og = showcase[0]?.data.image.variants.find((v) => v.width >= 1080)?.webp;
+
+const projects = (await getCollection('projects'))
+  .sort((a, b) => a.data.featuredOrder - b.data.featuredOrder)
+  .slice(0, 3);
+---
+
+<Base ogImage={og}>
+  <section class="py-10 sm:py-16">
+    <h1 class="max-w-3xl font-display text-4xl font-semibold leading-tight tracking-tight sm:text-5xl">
+      {SITE.name}
+    </h1>
+    <p class="mt-4 max-w-xl text-lg text-muted">{SITE.tagline}</p>
+    <div class="mt-7 flex gap-3">
+      <a
+        href="/photos/"
+        class="rounded-lg bg-fg px-4 py-2 text-sm font-medium text-base transition-opacity hover:opacity-85"
+      >
+        View photos
+      </a>
+      <a
+        href="/projects/"
+        class="rounded-lg border border-line px-4 py-2 text-sm font-medium text-muted transition-colors hover:border-faint hover:text-fg"
+      >
+        Software projects
+      </a>
+    </div>
+  </section>
+
+  <section class="mt-4">
+    <div class="mb-5 flex items-baseline justify-between">
+      <h2 class="font-display text-xl font-semibold tracking-tight">
+        {featured.length ? 'Featured work' : 'Recent work'}
+      </h2>
+      <a href="/photos/" class="text-sm text-muted transition-colors hover:text-accent">All photos →</a>
+    </div>
+    <Gallery photos={showcase} eagerCount={6} />
+  </section>
+
+  {
+    projects.length > 0 && (
+      <section class="mt-16">
+        <div class="mb-5 flex items-baseline justify-between">
+          <h2 class="font-display text-xl font-semibold tracking-tight">Projects</h2>
+          <a href="/projects/" class="text-sm text-muted transition-colors hover:text-accent">
+            All projects →
+          </a>
+        </div>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {projects.map((p) => (
+            <ProjectCard project={p} />
+          ))}
+        </div>
+      </section>
+    )
+  }
+</Base>

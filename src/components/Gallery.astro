@@ -1,0 +1,27 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import Lightbox from './Lightbox.astro';
+import PhotoCard from './PhotoCard.astro';
+
+interface Props {
+  photos: CollectionEntry<'photos'>[];
+  eagerCount?: number;
+}
+
+const { photos, eagerCount = 4 } = Astro.props;
+---
+
+{
+  photos.length === 0 ? (
+    <p class="py-16 text-center text-muted">No photos here yet.</p>
+  ) : (
+    <>
+      <div class="gallery">
+        {photos.map((photo, i) => (
+          <PhotoCard photo={photo} eager={i < eagerCount} />
+        ))}
+      </div>
+      <Lightbox photos={photos} />
+    </>
+  )
+}

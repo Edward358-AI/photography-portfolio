@@ -1,0 +1,32 @@
+---
+import { CATEGORIES, CATEGORY_LABELS, type Category } from '../site.config';
+
+interface Props {
+  current?: Category | undefined;
+}
+
+const { current } = Astro.props;
+const tabs: { label: string; href: string; key?: Category }[] = [
+  { label: 'All', href: '/photos/' },
+  ...CATEGORIES.map((c) => ({ label: CATEGORY_LABELS[c], href: `/photos/${c}/`, key: c })),
+];
+---
+
+<nav class="mb-7 flex flex-wrap gap-2" aria-label="Photo categories">
+  {
+    tabs.map((t) => (
+      <a
+        href={t.href}
+        aria-current={t.key === current ? 'page' : undefined}
+        class:list={[
+          'rounded-full border px-3.5 py-1.5 text-sm transition-colors',
+          t.key === current
+            ? 'border-accent/60 bg-accent/10 text-accent'
+            : 'border-line text-muted hover:border-faint hover:text-fg',
+        ]}
+      >
+        {t.label}
+      </a>
+    ))
+  }
+</nav>

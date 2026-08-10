@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../site.config';
+---
+
+<Base title="About" description={`About ${SITE.name} — photographer and software developer.`}>
+  <article class="mx-auto max-w-2xl">
+    <h1 class="mb-6 font-display text-2xl font-semibold tracking-tight">About</h1>
+    <div class="prose">
+      <!-- TODO: personalize this page — it ships with placeholder copy. -->
+      <p>
+        I'm {SITE.name} — a photographer and software developer. Most of my time behind a camera is spent
+        at airfields chasing fast metal, with landscape, cityscape and nature work in between.
+      </p>
+      <p>
+        This site is also one of my software projects: a fully static portfolio where EXIF data is
+        extracted automatically at ingest time, images are served as AVIF/WebP from edge storage, and the
+        pages ship almost no JavaScript. The write-up lives in
+        <a href="/projects/">Projects</a>.
+      </p>
+      <h2>Get in touch</h2>
+      <p>
+        Find me on <a href={`https://github.com/${SITE.github}`} target="_blank" rel="noopener">GitHub</a>.
+      </p>
+    </div>
+  </article>
+</Base>

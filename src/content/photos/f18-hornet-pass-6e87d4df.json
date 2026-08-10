@@ -1,0 +1,39 @@
+{
+  "title": "Hornet Low Pass",
+  "alt": "F/A-18 Hornet in a low high-speed pass against a blue sky",
+  "date": "2026-05-16T18:42:07.000Z",
+  "category": "aviation",
+  "featured": true,
+  "image": {
+    "width": 3000,
+    "height": 2000,
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoYABAAPzmKu1SvKaYjMAgB4CcJQBWApnMMc6FtFUalAAD+wE7iX8PxFpTWTvSM06KgBMFDaFDl91mJHPwijEAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "/images/photos/f18-hornet-pass-6e87d4df/640.avif",
+        "webp": "/images/photos/f18-hornet-pass-6e87d4df/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "/images/photos/f18-hornet-pass-6e87d4df/1080.avif",
+        "webp": "/images/photos/f18-hornet-pass-6e87d4df/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "/images/photos/f18-hornet-pass-6e87d4df/1920.avif",
+        "webp": "/images/photos/f18-hornet-pass-6e87d4df/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R5",
+    "lens": "RF100-500mm F4.5-7.1 L IS USM",
+    "focalLength": "500mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/2000s",
+    "iso": 400
+  },
+  "location": "Fixture Field (demo)",
+  "tags": ["demo", "airshow"]
+}

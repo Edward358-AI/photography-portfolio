@@ -1,0 +1,38 @@
+{
+  "title": "ridge light",
+  "alt": "ridge light",
+  "date": "2025-11-24T00:12:03.000Z",
+  "category": "landscape",
+  "featured": false,
+  "image": {
+    "width": 3000,
+    "height": 2000,
+    "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAwCdASoYABAAPzmGu1QvKSYjMAgB4CcJQBOgAqDBgipoAVI4AAD+y+W4PFqCYNfWcrAPTrxXKCpEWnd+0N+tLIAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "/images/photos/ridge-light-e4369080/640.avif",
+        "webp": "/images/photos/ridge-light-e4369080/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "/images/photos/ridge-light-e4369080/1080.avif",
+        "webp": "/images/photos/ridge-light-e4369080/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "/images/photos/ridge-light-e4369080/1920.avif",
+        "webp": "/images/photos/ridge-light-e4369080/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "FUJIFILM X-T5",
+    "lens": "XF16-55mmF2.8 R LM WR",
+    "focalLength": "35mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/60s",
+    "iso": 125
+  },
+  "tags": []
+}

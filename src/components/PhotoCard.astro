@@ -1,0 +1,37 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  photo: CollectionEntry<'photos'>;
+  /** Above-the-fold cards load eagerly with high fetch priority (LCP). */
+  eager?: boolean;
+}
+
+const { photo, eager = false } = Astro.props;
+const d = photo.data;
+const ratio = d.image.width / d.image.height;
+const avifSrcset = d.image.variants.map((v) => `${v.avif} ${v.width}w`).join(', ');
+const webpSrcset = d.image.variants.map((v) => `${v.webp} ${v.width}w`).join(', ');
+const fallback = (d.image.variants.find((v) => v.width >= 1080) ?? d.image.variants[d.image.variants.length - 1]).webp;
+const sizes = '(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw';
+---
+
+<a class="card" href={`#p:${photo.id}`} style={`--r:${ratio.toFixed(4)}`} data-photo={photo.id} aria-label={`View ${d.title}`}>
+  <div class="ph" style={`background-image:url("${d.image.lqip}")`}>
+    <picture>
+      <source type="image/avif" srcset={avifSrcset} sizes={sizes} />
+      <img
+        src={fallback}
+        srcset={webpSrcset}
+        sizes={sizes}
+        width={d.image.width}
+        height={d.image.height}
+        alt={d.alt}
+        loading={eager ? 'eager' : 'lazy'}
+        decoding="async"
+        fetchpriority={eager ? 'high' : 'auto'}
+      />
+    </picture>
+  </div>
+  <span class="card-overlay">{d.title}</span>
+</a>

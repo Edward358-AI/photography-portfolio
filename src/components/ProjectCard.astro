@@ -1,0 +1,26 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import TechBadge from './TechBadge.astro';
+
+interface Props {
+  project: CollectionEntry<'projects'>;
+}
+
+const { project } = Astro.props;
+const d = project.data;
+---
+
+<article
+  class="group relative flex flex-col gap-3 rounded-xl border border-line bg-surface p-5 transition-colors hover:border-faint"
+>
+  <h3 class="font-display text-base font-semibold">
+    <a href={`/projects/${project.id}/`} class="transition-colors group-hover:text-accent">
+      <span class="absolute inset-0" aria-hidden="true"></span>
+      {d.title}
+    </a>
+  </h3>
+  <p class="text-sm leading-relaxed text-muted">{d.description}</p>
+  <div class="mt-auto flex flex-wrap gap-1.5 pt-1">
+    {d.techStack.map((t) => <TechBadge name={t} />)}
+  </div>
+</article>

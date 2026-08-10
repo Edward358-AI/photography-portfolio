@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import CategoryTabs from '../../components/CategoryTabs.astro';
+import Gallery from '../../components/Gallery.astro';
+import Base from '../../layouts/Base.astro';
+import { CATEGORIES, CATEGORY_LABELS, type Category } from '../../site.config';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((category) => ({ params: { category } }));
+}
+
+const category = Astro.params.category as Category;
+const label = CATEGORY_LABELS[category];
+const photos = (await getCollection('photos', (p) => p.data.category === category)).sort(
+  (a, b) => +b.data.date - +a.data.date,
+);
+const og = photos[0]?.data.image.variants.find((v) => v.width >= 1080)?.webp;
+---
+
+<Base title={`${label} photos`} description={`${label} photography by Edward Jiang.`} ogImage={og}>
+  <h1 class="mb-6 font-display text-2xl font-semibold tracking-tight">{label}</h1>
+  <CategoryTabs current={category} />
+  <Gallery photos={photos} eagerCount={6} />
+</Base>

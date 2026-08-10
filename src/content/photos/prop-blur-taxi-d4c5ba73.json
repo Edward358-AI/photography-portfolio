@@ -1,0 +1,38 @@
+{
+  "title": "prop blur taxi",
+  "alt": "prop blur taxi",
+  "date": "2026-03-14T21:05:52.000Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2000,
+    "height": 3000,
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQBACdASoYACQAPzWIuVOvKawsKq354CaJZwDNwB0gMgG+8unW1RYeK3WAAP7nGDFa/8dV+L0FbNf4xQyXGA9+mv452rtQ+1vYkT2kWkWaIwAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "/images/photos/prop-blur-taxi-d4c5ba73/640.avif",
+        "webp": "/images/photos/prop-blur-taxi-d4c5ba73/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "/images/photos/prop-blur-taxi-d4c5ba73/1080.avif",
+        "webp": "/images/photos/prop-blur-taxi-d4c5ba73/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "/images/photos/prop-blur-taxi-d4c5ba73/1920.avif",
+        "webp": "/images/photos/prop-blur-taxi-d4c5ba73/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Sony ILCE-7RM5",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focalLength": "420mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/125s",
+    "iso": 100
+  },
+  "tags": []
+}

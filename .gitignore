@@ -1,0 +1,19 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# environment (R2 credentials live here — never commit)
+.env
+.env.*
+!.env.example
+
+# local image staging + locally generated variants (production images live on R2)
+staging/
+public/images/
+
+# logs
+npm-debug.log*
+*.log
