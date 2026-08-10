@@ -11,18 +11,18 @@
     "variants": [
       {
         "width": 640,
-        "avif": "/images/photos/formation-break-b67eb7c1/640.avif",
-        "webp": "/images/photos/formation-break-b67eb7c1/640.webp"
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/formation-break-b67eb7c1/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/formation-break-b67eb7c1/640.webp"
       },
       {
         "width": 1080,
-        "avif": "/images/photos/formation-break-b67eb7c1/1080.avif",
-        "webp": "/images/photos/formation-break-b67eb7c1/1080.webp"
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/formation-break-b67eb7c1/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/formation-break-b67eb7c1/1080.webp"
       },
       {
         "width": 1920,
-        "avif": "/images/photos/formation-break-b67eb7c1/1920.avif",
-        "webp": "/images/photos/formation-break-b67eb7c1/1920.webp"
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/formation-break-b67eb7c1/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/formation-break-b67eb7c1/1920.webp"
       }
     ]
   },

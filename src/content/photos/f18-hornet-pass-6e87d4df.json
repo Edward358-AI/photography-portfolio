@@ -11,18 +11,18 @@
     "variants": [
       {
         "width": 640,
-        "avif": "/images/photos/f18-hornet-pass-6e87d4df/640.avif",
-        "webp": "/images/photos/f18-hornet-pass-6e87d4df/640.webp"
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/f18-hornet-pass-6e87d4df/640.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/f18-hornet-pass-6e87d4df/640.webp"
       },
       {
         "width": 1080,
-        "avif": "/images/photos/f18-hornet-pass-6e87d4df/1080.avif",
-        "webp": "/images/photos/f18-hornet-pass-6e87d4df/1080.webp"
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/f18-hornet-pass-6e87d4df/1080.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/f18-hornet-pass-6e87d4df/1080.webp"
       },
       {
         "width": 1920,
-        "avif": "/images/photos/f18-hornet-pass-6e87d4df/1920.avif",
-        "webp": "/images/photos/f18-hornet-pass-6e87d4df/1920.webp"
+        "avif": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/f18-hornet-pass-6e87d4df/1920.avif",
+        "webp": "https://pub-510677556a204984bf0e561882c2ec42.r2.dev/photos/f18-hornet-pass-6e87d4df/1920.webp"
       }
     ]
   },
@@ -35,5 +35,8 @@
     "iso": 400
   },
   "location": "Fixture Field (demo)",
-  "tags": ["demo", "airshow"]
+  "tags": [
+    "demo",
+    "airshow"
+  ]
 }
