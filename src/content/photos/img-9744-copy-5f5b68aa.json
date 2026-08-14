@@ -1,0 +1,43 @@
+{
+  "title": "China Eastern Shanghai Museum Livery",
+  "alt": "",
+  "date": "2026-08-01T00:33:48.990Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 1920,
+    "lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAwCdASoYAAwAPzmKu1SvKaYjMAgB4CcJaQAAW+uXt6wW3di4AAD+ogPAGgi5Qy3SSLVoIAAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-9744-copy-5f5b68aa/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9744-copy-5f5b68aa/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-9744-copy-5f5b68aa/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9744-copy-5f5b68aa/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-9744-copy-5f5b68aa/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9744-copy-5f5b68aa/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-9744-copy-5f5b68aa/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9744-copy-5f5b68aa/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "100mm",
+    "aperture": "f/25",
+    "shutterSpeed": "1/60s",
+    "iso": 100
+  },
+  "tags": []
+}

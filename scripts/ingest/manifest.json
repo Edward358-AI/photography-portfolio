@@ -214,5 +214,17 @@
     "storage": "r2",
     "source": "IMG_8397.jpg",
     "ingestedAt": "2026-08-10T08:56:08.837Z"
+  },
+  "5f5b68aaa4bfadfaf83ada011e5528a4a7cfcd73a50cb489bf1d7b208105fdb4": {
+    "id": "img-9744-copy-5f5b68aa",
+    "storage": "r2",
+    "source": "IMG_9744 - Copy.JPG",
+    "ingestedAt": "2026-08-14T07:00:30.752Z"
+  },
+  "8411554300a1f581c133d2be09e6b977c81c6395d34bfcb289983d43579c9ca1": {
+    "id": "perseidmeteors-84115543",
+    "storage": "r2",
+    "source": "perseidmeteors.JPG",
+    "ingestedAt": "2026-08-14T07:00:37.323Z"
   }
 }
