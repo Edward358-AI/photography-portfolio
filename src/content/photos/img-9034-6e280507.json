@@ -1,0 +1,43 @@
+{
+  "title": "\"United Blue in the Sky\"",
+  "alt": "",
+  "date": "2026-07-11T02:02:22.350Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 2560,
+    "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoYABAAPzmGulQvKSWjMAgB4CcJZACdMoACWqLvTy8AAP7LcLcJO+GQd5GqvrM3tysTpd/OcJLeBuniuUXSVwNJL+jTgAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-9034-6e280507/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9034-6e280507/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-9034-6e280507/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9034-6e280507/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-9034-6e280507/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9034-6e280507/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-9034-6e280507/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9034-6e280507/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "130mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/1250s",
+    "iso": 100
+  },
+  "tags": []
+}
