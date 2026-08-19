@@ -21,7 +21,7 @@ for (const img of document.querySelectorAll('img')) {
  * with the same title/camera/settings caption pinned bottom-left. Click
  * anywhere or press Esc to close. */
 
-const ZOOM_SIZES = 'min(1920px, 94vw)';
+const ZOOM_SIZES = 'min(1000px, 94vw)';
 let dialog: HTMLDialogElement | null = null;
 
 const ensureDialog = () => {

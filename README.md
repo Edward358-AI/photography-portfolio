@@ -81,6 +81,6 @@ Delete `src/content/photos/*.json`, `scripts/ingest/manifest.json`, `staging/`, 
 - ~400-byte blurred `data:` URI placeholders — blur-up with no decoding JavaScript
 - Justified gallery rows in pure CSS (`flex-grow` ∝ aspect ratio) — no masonry library
 - EXIF (title, camera, settings) appears as a pure-CSS hover overlay on each photo; clicking
-  enlarges the photo (capped at 1920px on the long side) with the same caption. One small
+  enlarges the photo (capped at 1000px on the long side) with the same caption. One small
   inlined script handles the blur-up fade and the viewer
 - First 6 images `loading="eager" fetchpriority="high"`; the rest lazy-load

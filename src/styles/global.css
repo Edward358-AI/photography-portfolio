@@ -197,8 +197,9 @@ body:has(.zoom[open]) {
   display: block;
   width: auto;
   height: auto;
-  /* the requested cap: never larger than 1920px on the long side,
-     and always within the viewport */
+  /* the requested cap: never larger than 1000px on the long side,
+     and always within the viewport (keep in sync with ZOOM_SIZES in
+     scripts/gallery.ts) */
   max-width: min(1000px, 94vw);
   max-height: min(1000px, 88dvh);
 }
