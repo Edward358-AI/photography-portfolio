@@ -1,0 +1,43 @@
+{
+  "title": "United Centennial 787",
+  "alt": "United Boeing 787 Dreamliner in the purple 100 Years centennial livery rolling down the runway in hazy golden light",
+  "date": "2026-08-02T07:35:39.230Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5297,
+    "height": 2649,
+    "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAwCdASoYAAwAPzmEuVOvKKWisAgB4CcJZQDImB5t5Zj3UB4AAP4ixsvpSBDBaNRsz7tBJrIbOAqYbYOZVgAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0133-2-04116132/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0133-2-04116132/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0133-2-04116132/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0133-2-04116132/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0133-2-04116132/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0133-2-04116132/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-0133-2-04116132/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0133-2-04116132/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "140mm",
+    "aperture": "f/11",
+    "shutterSpeed": "1/60s",
+    "iso": 100
+  },
+  "tags": []
+}

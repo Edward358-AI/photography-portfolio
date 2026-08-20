@@ -1,0 +1,43 @@
+{
+  "title": "Pixar Pier at Sundown",
+  "alt": "Alaska Airlines Boeing 737 in the blue Pixar Pier Disneyland livery, Toy Story characters across the fuselage, climbing into a peach sunset sky",
+  "date": "2026-08-02T08:15:18.900Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5041,
+    "height": 3361,
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYABAAPzmEuVOvKKWisAgB4CcJZACdMoMxgDrNYSasAHmIAOk8jNxGtpHwwBU8uNAaPw/Isy3dRYUFgF2cMjpUbqznBHzxX8UGXVwA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0324-2-6876e05f/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0324-2-6876e05f/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0324-2-6876e05f/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0324-2-6876e05f/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0324-2-6876e05f/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0324-2-6876e05f/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-0324-2-6876e05f/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0324-2-6876e05f/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "135mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/400s",
+    "iso": 500
+  },
+  "tags": []
+}
