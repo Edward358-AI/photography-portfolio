@@ -1,0 +1,43 @@
+{
+  "title": "Alaska MAX 9 and the Sky",
+  "alt": "Belly view of an Alaska Airlines Boeing 737 MAX 9 climbing directly overhead, landing gear still down against a deep blue sky",
+  "date": "2026-08-24T06:53:38.180Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3917,
+    "height": 5876,
+    "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBQCdASoYACQAPzmQt1YvKiUjqqwB4CcJYgC/a5hByPS3/iEXryqfOLVQNAzQ+oql4wAA/p3HRZaJPeDkw/KjJLmA3nF1Kx/fYXbCKcNdR79aIUrUwCscWPoZxDdKksQ8j28/KGvw5I1nq1sfmCbC+bvgAAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0602-e419232d/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0602-e419232d/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0602-e419232d/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0602-e419232d/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0602-e419232d/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0602-e419232d/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-0602-e419232d/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0602-e419232d/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "70mm",
+    "aperture": "f/4",
+    "shutterSpeed": "1/4000s",
+    "iso": 800
+  },
+  "tags": []
+}
