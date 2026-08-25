@@ -13,7 +13,8 @@
     "preview": "astro preview",
     "check": "astro check",
     "fixtures": "node scripts/ingest/make-fixtures.mjs",
-    "ingest": "node scripts/ingest/index.mjs"
+    "ingest": "node scripts/ingest/index.mjs",
+    "replace": "node scripts/ingest/replace.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.4.0",

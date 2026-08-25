@@ -43,6 +43,14 @@ npm run dev                 # http://localhost:4321
 | `--tags airshow,raf` | set tags for the batch |
 
 Re-runs are idempotent (files tracked by content hash in `scripts/ingest/manifest.json`).
+
+### Replacing a photo (re-edited export)
+
+IDs contain the content hash, so a re-export is a *new* photo — plain `ingest` would leave
+the old one behind. Instead, overwrite the export in `staging/<category>/` (same filename)
+and run `npm run replace`: it ingests the new version, carries the old entry's title/alt/
+location/tags/featured over, and deletes the old JSON, manifest entry and R2 variants.
+`--dry-run` previews; renamed files are not detected — handle those manually.
 GPS EXIF is never published: variants are stripped of all metadata, and GPS tags are never
 written to content JSON.
 
