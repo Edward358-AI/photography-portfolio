@@ -262,5 +262,11 @@
     "storage": "r2",
     "source": "IMG_0792.jpg",
     "ingestedAt": "2026-08-26T02:15:52.375Z"
+  },
+  "a0d46d4dd6d6c3f03a761ec4fadbc2ec956fda774f66d70cccd76d3ea28dbabf": {
+    "id": "img-0813-a0d46d4d",
+    "storage": "r2",
+    "source": "IMG_0813.jpg",
+    "ingestedAt": "2026-08-26T06:28:05.101Z"
   }
 }
