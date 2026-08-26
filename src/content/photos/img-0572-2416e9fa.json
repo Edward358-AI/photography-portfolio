@@ -1,0 +1,38 @@
+{
+  "title": "The Dark Underside of the Delta",
+  "alt": "Straight-up view of the dark navy belly of a Delta jet on approach, DELTA titles running along the fuselage and landing gear extended against a deep blue sky",
+  "date": "2026-08-24T06:51:58.000Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2923,
+    "height": 2923,
+    "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBQCdASoYABgAPzmSu1ivKiWjqAqp4CcJZgCdAAtZZ9C77tRthiX7BIXgA/3gNqQAAPchfeXXaupd2MLees+FfVynCZlcHX+EKV0BHyLek6JVWZEDK55P1fpGrkLEzC5Rb5V/CMHxil2RrhlNELbsC6Vks1XIkWGRQ+/U0k1Uhhmgx1sW72qsMQAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0572-2416e9fa/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0572-2416e9fa/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0572-2416e9fa/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0572-2416e9fa/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0572-2416e9fa/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0572-2416e9fa/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "70mm",
+    "aperture": "f/4",
+    "shutterSpeed": "1/4000s",
+    "iso": 800
+  },
+  "tags": []
+}

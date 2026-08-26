@@ -1,0 +1,38 @@
+{
+  "title": "Southwest Leaving to the Northeast",
+  "alt": "Silhouette of a Southwest Boeing 737 climbing away overhead into a deepening dusk sky, above a dark field lined with trees",
+  "date": "2026-08-24T07:04:34.880Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3741,
+    "height": 5611,
+    "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASoYACQAPzmOu1QvKq0jMBVaqeAnCWMAxkAuY38ov2JbZOhh7C73nYn5Dr+EAAD+4yWxM8nop0dj34EUWNYy0GWeX5kRGACEX+vEEfBng9yqUXitT8usN69SWKXO4AvUAAAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0712-5681453a/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0712-5681453a/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0712-5681453a/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0712-5681453a/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0712-5681453a/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0712-5681453a/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF16mm F2.8 STM",
+    "focalLength": "16mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/1250s",
+    "iso": 250
+  },
+  "tags": []
+}

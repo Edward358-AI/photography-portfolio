@@ -1,0 +1,43 @@
+{
+  "title": "America's Green Airline",
+  "alt": "Frontier Airbus A321neo 'Edward the Bald Eagle' with a green belly, eagle tail art and America's Greenest Airline titles, on final in warm evening light",
+  "date": "2026-08-24T07:33:33.060Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5646,
+    "height": 3764,
+    "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoYABAAPzmGulOvKSWisAgB4CcJQBUeg8+WXpFPuG6LoAD+cWkRd3yqpTve5n/w17rExLUCXmZmzovX8M2r9UkYN7jAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0792-8f3fd346/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0792-8f3fd346/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0792-8f3fd346/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0792-8f3fd346/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0792-8f3fd346/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0792-8f3fd346/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-0792-8f3fd346/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0792-8f3fd346/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "115mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/640s",
+    "iso": 200
+  },
+  "tags": []
+}

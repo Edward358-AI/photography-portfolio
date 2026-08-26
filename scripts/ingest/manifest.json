@@ -244,5 +244,23 @@
     "storage": "r2",
     "source": "IMG_0602.jpg",
     "ingestedAt": "2026-08-25T07:17:13.063Z"
+  },
+  "2416e9fad44580fa8906433070fb2f45d6bbcdffe095756752e421e9559024f6": {
+    "id": "img-0572-2416e9fa",
+    "storage": "r2",
+    "source": "IMG_0572.jpg",
+    "ingestedAt": "2026-08-26T02:15:43.539Z"
+  },
+  "5681453adf9f90ed31a53dfd2021e597b0c4c5f073f31f9e15b85530d2e3369f": {
+    "id": "img-0712-5681453a",
+    "storage": "r2",
+    "source": "IMG_0712.jpg",
+    "ingestedAt": "2026-08-26T02:15:47.499Z"
+  },
+  "8f3fd346ae97306d13b160685d9a728cfaec28631581b335dfe1fef320db3590": {
+    "id": "img-0792-8f3fd346",
+    "storage": "r2",
+    "source": "IMG_0792.jpg",
+    "ingestedAt": "2026-08-26T02:15:52.375Z"
   }
 }
