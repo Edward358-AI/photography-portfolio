@@ -1,0 +1,43 @@
+{
+  "title": "The Hawaiian's Leaves",
+  "alt": "Hawaiian Airlines Airbus A321neo on approach in warm dusk light, seen through a frame of silhouetted leaves against a purple sky",
+  "date": "2026-08-24T07:46:47.090Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5412,
+    "height": 3608,
+    "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAwCdASoYABAAPzmGvFQvKSYjMAgB4CcJYwAAUZQmu7ufW6YAAP53FgwvIKsKKD4Ht89UE/cnSFqZ8ft9RT8+HEQAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0829-114d1462/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0829-114d1462/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0829-114d1462/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0829-114d1462/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0829-114d1462/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0829-114d1462/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-0829-114d1462/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0829-114d1462/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "70mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/250s",
+    "iso": 200
+  },
+  "tags": []
+}
