@@ -1,0 +1,43 @@
+{
+  "title": "Cool Continental 787",
+  "alt": "United Boeing 787-9 Dreamliner with its blue Continental globe tail rolling down the runway under cool stormy light, the control tower rising behind",
+  "date": "2025-11-10T04:53:01.840Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5264,
+    "height": 2961,
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAwCdASoYAA0APzmGu1OvKSYisAgB4CcJZwAAUiGnGJUTCpRAAP1EDiHTNqGHZR5grb2MNy3EgNz1ThZkwlrPm14UABIgAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-6925-7d4b0c58/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6925-7d4b0c58/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-6925-7d4b0c58/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6925-7d4b0c58/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-6925-7d4b0c58/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6925-7d4b0c58/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-6925-7d4b0c58/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6925-7d4b0c58/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "105mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/200s",
+    "iso": 100
+  },
+  "tags": []
+}
