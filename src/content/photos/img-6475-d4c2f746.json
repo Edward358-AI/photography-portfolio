@@ -1,0 +1,43 @@
+{
+  "title": "Qantas A380 In-N-Out",
+  "alt": "Qantas Airbus A380 sweeping low over the In-N-Out Burger sign on short final to LAX, ringed by palm trees under a deep blue sky",
+  "date": "2025-11-10T01:58:28.720Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3907,
+    "height": 2605,
+    "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoYABAAPzmGulOvKSWisAgB4CcJZACdMoADQrfGsn2dHGXwAP7LWxFcd5se0WvRjAnS0GnCJ/UhRg3TpAPTT51cedUaXejqLoYlMVpEXvJnnYbLHsAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-6475-d4c2f746/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6475-d4c2f746/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-6475-d4c2f746/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6475-d4c2f746/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-6475-d4c2f746/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6475-d4c2f746/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-6475-d4c2f746/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6475-d4c2f746/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "23mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/500s",
+    "iso": 100
+  },
+  "tags": []
+}

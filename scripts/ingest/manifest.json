@@ -292,5 +292,17 @@
     "storage": "r2",
     "source": "IMG_7196.jpg",
     "ingestedAt": "2026-08-27T04:25:16.057Z"
+  },
+  "5054a42f16847392556f56c508629bea678c0909ef7c9a4072b014d9345e8a13": {
+    "id": "img-6334-5054a42f",
+    "storage": "r2",
+    "source": "IMG_6334.jpg",
+    "ingestedAt": "2026-08-27T21:58:05.134Z"
+  },
+  "d4c2f7461583c89916b551ba39716ec40619aceca0b6151f3785250135b9650d": {
+    "id": "img-6475-d4c2f746",
+    "storage": "r2",
+    "source": "IMG_6475.jpg",
+    "ingestedAt": "2026-08-27T21:58:11.931Z"
   }
 }

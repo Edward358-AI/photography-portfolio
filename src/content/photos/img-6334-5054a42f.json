@@ -1,0 +1,43 @@
+{
+  "title": "Delta Raccoon In the Trees",
+  "alt": "Delta Airbus A321neo with its black raccoon cockpit mask passing low overhead on final, framed by treetops against a clear blue sky",
+  "date": "2025-11-10T01:16:46.850Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 4313,
+    "height": 2875,
+    "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYABAAPzmGulOvKSWisAgB4CcJQBOmUABfldX31ingLGkAAP7L5+4Nu6YHLPZwkbTtSLaL4JcK6T9pimbbgyPuB33cHMbl8l1tbciPuYs2ifx8QAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-6334-5054a42f/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6334-5054a42f/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-6334-5054a42f/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6334-5054a42f/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-6334-5054a42f/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6334-5054a42f/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-6334-5054a42f/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6334-5054a42f/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "45mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/500s",
+    "iso": 100
+  },
+  "tags": []
+}
