@@ -29,18 +29,18 @@ const ensureDialog = () => {
   dialog = document.createElement('dialog');
   dialog.className = 'zoom';
   dialog.setAttribute('aria-label', 'Enlarged photo');
-  dialog.addEventListener('click', close);
+  dialog.addEventListener('click', closeZoom);
   document.body.append(dialog);
   return dialog;
 };
 
-const close = () => {
+const closeZoom = () => {
   if (!dialog?.open) return;
   dialog.close();
   dialog.replaceChildren();
 };
 
-const open = (card: Element) => {
+const openZoom = (card: Element) => {
   const gridImg = card.querySelector('img');
   if (!gridImg) return;
   const d = ensureDialog();
@@ -89,14 +89,14 @@ const open = (card: Element) => {
 
 document.addEventListener('click', (e) => {
   const card = e.target instanceof Element ? e.target.closest('.gallery .card') : null;
-  if (card) open(card);
+  if (card) openZoom(card);
 });
 
 document.addEventListener('keydown', (e) => {
   if (dialog?.open && e.key === 'Escape') {
     // explicit: the native dialog close-request isn't reliable everywhere
     e.preventDefault();
-    close();
+    closeZoom();
     return;
   }
   if (
@@ -106,6 +106,6 @@ document.addEventListener('keydown', (e) => {
     document.activeElement.matches('.gallery .card')
   ) {
     e.preventDefault();
-    open(document.activeElement);
+    openZoom(document.activeElement);
   }
 });

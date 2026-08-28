@@ -76,10 +76,9 @@ Delete `src/content/photos/*.json`, `scripts/ingest/manifest.json`, `staging/`, 
 
 ## Version notes
 
-- Pinned to **Astro 5** because this machine runs Node 20 (Astro 6+ requires Node ≥22.12),
-  and to **exiftool-vendored 35** (36+ requires Node ≥22). Node 20 reached end-of-life in
-  April 2026 — when convenient: install Node 22/24 LTS, then `npx @astrojs/upgrade` and bump
-  `exiftool-vendored`. The content-collection APIs used here already match the v6+ shape.
+- Runs on **Node 24 / Astro 7 / exiftool-vendored 37** (upgraded 2026-08-27 from the old
+  Node 20-pinned stack). `engines` requires Node ≥22.12; [.node-version](.node-version) pins
+  the Cloudflare Pages build to Node 24 — keep both in sync on future major bumps.
 - Licensed AGPL-3.0 (see [LICENSE](LICENSE)); photographs are all rights reserved.
 
 ## How it stays fast
