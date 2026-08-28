@@ -1,0 +1,38 @@
+{
+  "title": "Hawaiian Sundown Glow",
+  "alt": "Head-on view of a Hawaiian Airlines jet with landing lights glinting, small against an immense sunset sky of gold and purple",
+  "date": "2026-08-24T07:46:10.670Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2746,
+    "height": 4119,
+    "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBQCdASoYACQAPyl8slOyp6SitUgCUCUJZgC2+z3G+C2z1co6hObQL/e/5QTnPQIAAMLTraiIBZ2X+LeMninGa8fIv7MaGK9pfpolXJxHlb+TjtgtaqqwF2O5vrV+fmLmaQf80ucIxbEhP2vuyIgoXJo9XAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0803-85d3697b/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0803-85d3697b/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0803-85d3697b/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0803-85d3697b/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0803-85d3697b/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0803-85d3697b/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "150mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/200s",
+    "iso": 200
+  },
+  "tags": []
+}
