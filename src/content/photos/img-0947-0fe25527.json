@@ -1,0 +1,38 @@
+{
+  "title": "The Moon (v2)",
+  "alt": "Full moon filling the frame against a black sky, its craters and dark maria in crisp detail",
+  "date": "2026-08-27T13:11:49.660Z",
+  "category": "nature",
+  "featured": false,
+  "image": {
+    "width": 2578,
+    "height": 2578,
+    "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwBACdASoYABgAPzGEtlOuqKUit/VYAdAmCWkAAC33zdLNPA8ct277/KrCaCAAAP7r8NY/TAadmvSxke2JuBps3FgAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0947-0fe25527/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0947-0fe25527/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0947-0fe25527/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0947-0fe25527/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0947-0fe25527/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0947-0fe25527/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "403mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/1000s",
+    "iso": 400
+  },
+  "tags": []
+}

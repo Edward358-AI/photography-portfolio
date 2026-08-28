@@ -1,0 +1,38 @@
+{
+  "title": "Night Leafs and the Moon",
+  "alt": "Black-and-white view of the moon glowing through thin clouds, framed by silhouetted leaves and branches at night",
+  "date": "2026-08-27T13:24:02.050Z",
+  "category": "nature",
+  "featured": false,
+  "image": {
+    "width": 3555,
+    "height": 3555,
+    "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwBACdASoYABgAPzmIu1UvKKYjKA1R4CcJaQAALngYQ9dznlVQ/hyqfwAA/ujZjnZBneU9NkKAUJS9zZ49sQGMGRU26/l+mdmU812IAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0959-e33a798e/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0959-e33a798e/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0959-e33a798e/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0959-e33a798e/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0959-e33a798e/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0959-e33a798e/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "85mm",
+    "aperture": "f/16",
+    "shutterSpeed": "1s",
+    "iso": 1600
+  },
+  "tags": []
+}
