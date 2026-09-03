@@ -1,0 +1,43 @@
+{
+  "title": "Southwest Gang",
+  "alt": "Southwest Boeing 737 rolling down the runway past two blurred Southwest tails, shorebirds flocking in the foreground",
+  "date": "2025-10-10T06:22:35.200Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5126,
+    "height": 2883,
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoYAA4APzmGulQvKSWjMAgB4CcJYgCdAB6GjtZ4WZnLIAD+udxQQvpXqiJXWrNOwP9o3HlxPgrBV0799G4bwJRdWpaU7Ien6tAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/mg-3381-enhanced-nr-d3a20773/640.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3381-enhanced-nr-d3a20773/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/mg-3381-enhanced-nr-d3a20773/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3381-enhanced-nr-d3a20773/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/mg-3381-enhanced-nr-d3a20773/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3381-enhanced-nr-d3a20773/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/mg-3381-enhanced-nr-d3a20773/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3381-enhanced-nr-d3a20773/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "289mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/30s",
+    "iso": 100
+  },
+  "tags": []
+}

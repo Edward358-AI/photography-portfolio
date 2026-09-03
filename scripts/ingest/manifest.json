@@ -77,12 +77,6 @@
     "source": "IMG_9719.jpg",
     "ingestedAt": "2026-08-10T08:53:48.700Z"
   },
-  "123e99a21ad18c1a16f34c6d6579d9cc7e63e1cad5eb2e454fc522e5dc40b44b": {
-    "id": "mg-3381-enhanced-nr-123e99a2",
-    "storage": "r2",
-    "source": "_MG_3381-Enhanced-NR.jpg",
-    "ingestedAt": "2026-08-10T08:53:54.197Z"
-  },
   "f8e80013859d43b7faa3c5564f44a573ccd7649ae25c6eb4923fb78abf5a3b5f": {
     "id": "mg-3552-enhanced-nr-f8e80013",
     "storage": "r2",
@@ -328,5 +322,11 @@
     "storage": "r2",
     "source": "IMG_0803.jpg",
     "ingestedAt": "2026-08-28T20:45:03.826Z"
+  },
+  "d3a20773ff75d8d8e84ab5df18f524c51c536bea4eaea5801a396bfb5297c4ce": {
+    "id": "mg-3381-enhanced-nr-d3a20773",
+    "storage": "r2",
+    "source": "_MG_3381-Enhanced-NR.jpg",
+    "ingestedAt": "2026-09-03T05:36:02.782Z"
   }
 }
