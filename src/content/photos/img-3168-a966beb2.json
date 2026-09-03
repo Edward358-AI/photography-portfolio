@@ -1,0 +1,43 @@
+{
+  "title": "Canadian Snowbirds' Snow Trail",
+  "alt": "Four Canadian Forces Snowbirds jets arcing over the top of a loop in echelon, thick white smoke trails curving behind them in a deep blue sky",
+  "date": "2025-10-10T03:09:38.220Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 6000,
+    "height": 4000,
+    "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYABAAPzmEuVOvKKWisAgB4CcJZACdACIc0inPcBXbygAA/UU79eRjM19mTj6N3oIlXq8ym0dBzz6Je50uYda4sjTI5T45mLcxfoDAAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3168-a966beb2/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3168-a966beb2/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3168-a966beb2/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3168-a966beb2/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-3168-a966beb2/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3168-a966beb2/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-3168-a966beb2/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3168-a966beb2/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "198mm",
+    "aperture": "f/5.6",
+    "shutterSpeed": "1/2500s",
+    "iso": 500
+  },
+  "tags": []
+}

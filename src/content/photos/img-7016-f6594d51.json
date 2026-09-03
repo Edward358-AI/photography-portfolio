@@ -1,0 +1,43 @@
+{
+  "title": "Nevada One at LAX",
+  "alt": "Southwest Boeing 737 in the blue Nevada One state-flag livery touching down at LAX in golden light, Qantas and Delta tails blurred behind",
+  "date": "2025-11-10T05:02:05.840Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 4681,
+    "height": 2633,
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoYAA0APzmIulQvKSWjMAgB4CcJQBOgA83eiY2J4MMFAAD9TmrL7cNJ1csNrX/gBEQ247PNTI3woPAn9N4MMycrAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-7016-f6594d51/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7016-f6594d51/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-7016-f6594d51/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7016-f6594d51/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-7016-f6594d51/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7016-f6594d51/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-7016-f6594d51/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7016-f6594d51/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "190mm",
+    "aperture": "f/10",
+    "shutterSpeed": "1/60s",
+    "iso": 100
+  },
+  "tags": []
+}

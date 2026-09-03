@@ -1,0 +1,38 @@
+{
+  "title": "Delta Raccoon at Sunset (SFO)",
+  "alt": "Delta Airbus A321neo with its black raccoon cockpit mask taxiing past the SFO letters at sunset under an orange sky",
+  "date": "2026-07-24T08:21:59.910Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3440,
+    "height": 2752,
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoYABMAPzmKuVOvKaWisAgB4CcJQBUehDjfli5S4PKDQAD+0wCae/9TdNLalDmhfcuh4kzKDcn4efSpsTutrXTK3j0siqOmvIKIgAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-9704-efad5801/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9704-efad5801/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-9704-efad5801/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9704-efad5801/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-9704-efad5801/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9704-efad5801/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "70mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/125s",
+    "iso": 125
+  },
+  "tags": []
+}

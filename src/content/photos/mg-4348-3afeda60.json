@@ -1,0 +1,43 @@
+{
+  "title": "Air France and the SF Skyline",
+  "alt": "Air France Airbus A350 taxiing beneath the hazy San Francisco skyline, Salesforce Tower rising behind and a flock of birds crossing the corner of the frame",
+  "date": "2025-10-12T06:15:07.060Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5925,
+    "height": 3333,
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoYAA0APzmIulOvKSWisAgB4CcJYwC7ABZHtMagq1VYQAD9RX210pk4Kh2vbQjh+2jo5QaVE/1N5JcxCqP8MwJsaAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/mg-4348-3afeda60/640.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-4348-3afeda60/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/mg-4348-3afeda60/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-4348-3afeda60/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/mg-4348-3afeda60/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-4348-3afeda60/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/mg-4348-3afeda60/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-4348-3afeda60/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "370mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/640s",
+    "iso": 500
+  },
+  "tags": []
+}

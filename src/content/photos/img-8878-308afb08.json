@@ -1,0 +1,43 @@
+{
+  "title": "EVA Air \"787\" Livery",
+  "alt": "EVA Air Boeing 787-10 rotating off the runway past beige hangars, its green globe tail sharp against the motion-blurred background",
+  "date": "2026-07-11T01:30:34.740Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3885,
+    "height": 1942,
+    "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAABwAwCdASoYAAwAPzmYvlYvLCajsAgB4CcJQBadBDl34Dsc0gwAyn49u+F/UlcO9nSlRvse/re/MmaJHxoUF1CR8wwAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-8878-308afb08/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-8878-308afb08/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-8878-308afb08/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-8878-308afb08/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-8878-308afb08/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-8878-308afb08/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-8878-308afb08/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-8878-308afb08/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "80mm",
+    "aperture": "f/25",
+    "shutterSpeed": "1/60s",
+    "iso": 100
+  },
+  "tags": []
+}

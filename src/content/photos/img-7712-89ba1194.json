@@ -1,0 +1,38 @@
+{
+  "title": "Korean Air 787 Close-Up",
+  "alt": "Close side-on panning shot of a Korean Air Boeing 787-9 in powder blue lifting off, KOREAN titles filling the frame",
+  "date": "2026-03-21T01:04:46.370Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3140,
+    "height": 1308,
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAAoAPzmIulOvKSWisAgB4CcJYwCdABuwmbEHkjNQGqAA/ndIM1Nu3dLKacRJE26Bbl4DObqIkCs3EvhW7K64rpjrBLdeLegAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-7712-89ba1194/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7712-89ba1194/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-7712-89ba1194/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7712-89ba1194/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-7712-89ba1194/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7712-89ba1194/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "165mm",
+    "aperture": "f/22",
+    "shutterSpeed": "1/60s",
+    "iso": 100
+  },
+  "tags": []
+}

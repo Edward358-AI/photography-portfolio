@@ -1,0 +1,43 @@
+{
+  "title": "United \"The Future is SAF\" 787 Livery",
+  "alt": "United Boeing 787-9 with the green The Future is SAF sustainability wrap on its forward fuselage, climbing off the runway against a stormy grey sky",
+  "date": "2026-08-01T02:54:51.690Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 4354,
+    "height": 2177,
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABwAwCdASoYAAwAPzmIulOvKSWisAgB4CcJQAALgIWbh5JJjpAA/VCI+2Dhn4GAJ+oQ1McB49HWSzi+gFZvkVDR9mgfUAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-9951-01e87c5e/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9951-01e87c5e/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-9951-01e87c5e/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9951-01e87c5e/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-9951-01e87c5e/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9951-01e87c5e/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-9951-01e87c5e/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9951-01e87c5e/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "100mm",
+    "aperture": "f/25",
+    "shutterSpeed": "1/60s",
+    "iso": 100
+  },
+  "tags": []
+}

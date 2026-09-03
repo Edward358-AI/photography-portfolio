@@ -1,0 +1,43 @@
+{
+  "title": "Golden Hour SFO Tower",
+  "alt": "The SFO control tower and terminal at hazy pink dusk, a French Bee A350 parked at the gates below, all reflected in the still water of the bay shallows",
+  "date": "2025-11-01T06:34:07.680Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3879,
+    "height": 5818,
+    "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAACQBQCdASoYACQAPyl6tFOuJ6UiurZoAcAlCWIAsR/pAU+8QjUUae5xYsc7XgJSAM2AXz6IwADWNg7McwstpzSLCnPr5lRugRwMRCKLZawFunZ21LCYa9DiQFqPcUz7eO6V80QMTVUQEho3eSkXZ0akFq4nCKL8qUYfnkQAAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-5793-enhanced-nr-fb062758/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5793-enhanced-nr-fb062758/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-5793-enhanced-nr-fb062758/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5793-enhanced-nr-fb062758/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-5793-enhanced-nr-fb062758/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5793-enhanced-nr-fb062758/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-5793-enhanced-nr-fb062758/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5793-enhanced-nr-fb062758/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/100s",
+    "iso": 2500
+  },
+  "tags": []
+}
