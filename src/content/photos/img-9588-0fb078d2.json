@@ -1,0 +1,43 @@
+{
+  "title": "United A320 at Golden Timing",
+  "alt": "United Airbus A320 taxiing head-on at dusk, its fuselage glowing against a peach and orange evening sky",
+  "date": "2026-07-24T08:04:09.160Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5764,
+    "height": 2402,
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoYAAoAPzmIulOvKSWisAgB4CcJQBOgBDuRaucMxrmUwAD8bFFRZ7Y5SBisA5Sg1dTK+q1U2M+Th7X8TCjgAAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-9588-0fb078d2/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9588-0fb078d2/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-9588-0fb078d2/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9588-0fb078d2/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-9588-0fb078d2/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9588-0fb078d2/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-9588-0fb078d2/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9588-0fb078d2/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "70mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/1250s",
+    "iso": 400
+  },
+  "tags": []
+}

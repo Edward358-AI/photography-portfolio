@@ -1,0 +1,38 @@
+{
+  "title": "United 777 Rounding the Golden Gate",
+  "alt": "United Boeing 777 banking above a cable-strung tower of the Golden Gate Bridge under a pale sky",
+  "date": "2025-10-10T02:38:32.940Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2719,
+    "height": 3399,
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABQAwCdASoYAB4APyl2tFOuJyUit/qoAcAlCWUAyJgt2mzuQAD+5KBWStZpNSfg24+fx+hBBIpLXQX/DZ6TcAV4AYM30vZoxQ4fqI9YG6AAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-2977-enhanced-nr-47346130/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2977-enhanced-nr-47346130/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-2977-enhanced-nr-47346130/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2977-enhanced-nr-47346130/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-2977-enhanced-nr-47346130/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2977-enhanced-nr-47346130/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "313mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/2500s",
+    "iso": 200
+  },
+  "tags": []
+}

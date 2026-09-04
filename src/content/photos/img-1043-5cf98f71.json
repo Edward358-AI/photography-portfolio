@@ -1,0 +1,38 @@
+{
+  "title": "Condor Belly Square",
+  "alt": "Belly of a Condor Airbus A330neo in green and white candy stripes passing directly overhead in flat grey light",
+  "date": "2025-09-28T02:51:28.120Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2905,
+    "height": 2905,
+    "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwBACdASoYABgAPzmIulYvKKWjsBgIAeAnCWkAxgQK+ijOFcsT+tU+IlhQOFwAAPmNpg1WIl5K2AaEp0Xrbl3PNjpvI3Mmity6wzNeELl+pWPCPFA3DY2AAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1043-5cf98f71/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1043-5cf98f71/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1043-5cf98f71/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1043-5cf98f71/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1043-5cf98f71/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1043-5cf98f71/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "170mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/1600s",
+    "iso": 100
+  },
+  "tags": []
+}

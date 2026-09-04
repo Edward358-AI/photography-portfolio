@@ -388,5 +388,29 @@
     "storage": "r2",
     "source": "IMG_9907.jpg",
     "ingestedAt": "2026-09-04T00:17:41.105Z"
+  },
+  "5cf98f71910acd61dea22412a1aa84ea4f1b022a146f55b6fac1f38f5fb09e7d": {
+    "id": "img-1043-5cf98f71",
+    "storage": "r2",
+    "source": "IMG_1043.jpg",
+    "ingestedAt": "2026-09-04T17:15:14.408Z"
+  },
+  "47346130099a6afa441ef9d22d9124297fa6e5b0506dc9f4d8c54ea0cd4f2502": {
+    "id": "img-2977-enhanced-nr-47346130",
+    "storage": "r2",
+    "source": "IMG_2977-Enhanced-NR.jpg",
+    "ingestedAt": "2026-09-04T17:15:17.760Z"
+  },
+  "0fb078d2e8e833b0582d7e434aca98c56bd104741abaae093b9aa0a330861741": {
+    "id": "img-9588-0fb078d2",
+    "storage": "r2",
+    "source": "IMG_9588.jpg",
+    "ingestedAt": "2026-09-04T17:15:29.925Z"
+  },
+  "a9cee96acda319306ede991474b4ff2604a32408126a6a9e7ee69b6a2f768245": {
+    "id": "img-6284-a9cee96a",
+    "storage": "r2",
+    "source": "IMG_6284.jpg",
+    "ingestedAt": "2026-09-04T17:15:54.627Z"
   }
 }
