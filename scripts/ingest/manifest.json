@@ -382,5 +382,11 @@
     "storage": "r2",
     "source": "_MG_4348.jpg",
     "ingestedAt": "2026-09-03T05:46:14.708Z"
+  },
+  "6065de4dbc8f0efdcefc6ea63c84e28e76bb708be3ec7cda665d612269909ce4": {
+    "id": "img-9907-6065de4d",
+    "storage": "r2",
+    "source": "IMG_9907.jpg",
+    "ingestedAt": "2026-09-04T00:17:41.105Z"
   }
 }

@@ -1,0 +1,43 @@
+{
+  "title": "Cathay Oneworld Livery against the Blue",
+  "alt": "Cathay Pacific Boeing 777-300ER with large oneworld titles climbing after takeoff, gear retracting against a clean gradient of deep blue sky",
+  "date": "2026-08-01T02:38:28.260Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 4992,
+    "height": 3328,
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAwCdASoYABAAPzmGulOvKSWisAgB4CcJQBOmUABpvS+OMzkirQAA/ujDfjGLUvQ1sW5lsIIbt4kDdI5wrJIUsc5kX2XysAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-9907-6065de4d/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9907-6065de4d/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-9907-6065de4d/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9907-6065de4d/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-9907-6065de4d/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9907-6065de4d/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-9907-6065de4d/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9907-6065de4d/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "150mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/1000s",
+    "iso": 100
+  },
+  "tags": []
+}
