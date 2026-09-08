@@ -1,0 +1,43 @@
+{
+  "title": "SFO Sunset Landscape",
+  "alt": "The SFO control tower and terminals seen across the bay at sunset, silhouetted against an orange sky fading to purple above dark rippled water",
+  "date": "2025-10-18T06:32:31.190Z",
+  "category": "landscape",
+  "featured": false,
+  "image": {
+    "width": 5812,
+    "height": 3875,
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoYABAAPzmIu1QvKSYjMAgB4CcJaACdAB6GFLkpfCmCZAD8XVP0APjnL2WwIrOy+s4HdmoLWlTKaA4H6f762iHe8ibi/ahxogAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4406-49214fb9/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4406-49214fb9/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4406-49214fb9/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4406-49214fb9/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4406-49214fb9/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4406-49214fb9/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-4406-49214fb9/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4406-49214fb9/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/250s",
+    "iso": 400
+  },
+  "tags": []
+}

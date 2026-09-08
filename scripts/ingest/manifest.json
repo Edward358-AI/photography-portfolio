@@ -412,5 +412,11 @@
     "storage": "r2",
     "source": "IMG_6284.jpg",
     "ingestedAt": "2026-09-04T17:15:54.627Z"
+  },
+  "49214fb93c77f6052dea51e38718f730a67bdea587dd5b8e1b0f255d6af4f5e4": {
+    "id": "img-4406-49214fb9",
+    "storage": "r2",
+    "source": "IMG_4406.jpg",
+    "ingestedAt": "2026-09-08T05:18:36.489Z"
   }
 }
