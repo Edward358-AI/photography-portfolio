@@ -1,0 +1,43 @@
+{
+  "title": "SF California & Gough Street Sunrise 5",
+  "alt": "San Francisco rooftops and towers stacked in golden sunrise haze, light flooding sideways between the buildings",
+  "date": "2026-09-04T19:06:12.490Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 3893,
+    "height": 5840,
+    "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQBQCdASoYACQAPyl6sFOuJ6SitUgBwCUJaAC7ACzkRU0WePCwsgZ1aDh5wZzEFwe4T3gA/q77e2zhfMns0nhJTnEKyK8QYsAPWGqKrGHiT4ySmYdzVLqlW5PKLn9G/o94VTgvo1BvzeplFJ6sDNrvvqYH3fYJ4dAAAAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1097-40b8ff08/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1097-40b8ff08/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1097-40b8ff08/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1097-40b8ff08/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1097-40b8ff08/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1097-40b8ff08/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-1097-40b8ff08/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1097-40b8ff08/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/11",
+    "shutterSpeed": "1/60s",
+    "iso": 100
+  },
+  "tags": []
+}

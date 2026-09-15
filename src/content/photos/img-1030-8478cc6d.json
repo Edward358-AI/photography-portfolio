@@ -1,0 +1,38 @@
+{
+  "title": "SF California & Gough Street Sunrise 1",
+  "alt": "Looking down California Street at first light, cable-car tracks descending through the city canyon toward towers in pale gold haze",
+  "date": "2026-09-04T18:28:45.730Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 3695,
+    "height": 5543,
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBgCdASoYACQAPzF6tlOupyUitVv4AdAmCUAV8IN4GldVRI0MQtViutIYkiUzYes9+xd19VwAyaAA+1yp5jMuC42rvFM7BbzqH5dQqo80/YIMkJBfUxWmufclruQ6tDxxuAoak9FLPCHxeIEXKGafef3WWeH4xXhmRkRanHKoFkGvSbAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1030-8478cc6d/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1030-8478cc6d/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1030-8478cc6d/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1030-8478cc6d/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1030-8478cc6d/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1030-8478cc6d/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "70mm",
+    "aperture": "f/5.6",
+    "shutterSpeed": "1/40s",
+    "iso": 1600
+  },
+  "tags": []
+}

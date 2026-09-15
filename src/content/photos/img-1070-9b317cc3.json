@@ -1,0 +1,38 @@
+{
+  "title": "SF California & Gough Street Sunrise 4",
+  "alt": "The Bay Bridge tower silhouetted at the foot of California Street against a molten gold sunrise, the tracks glowing downhill",
+  "date": "2026-09-04T19:00:22.030Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 2555,
+    "height": 3407,
+    "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQBACdASoYACAAPzGGtlOuqaUisAwB0CYJbACw7BujDGIILZfA7VzPadtUI+nXQAD+6+e898Wh9hBh9mOfU3z/XMicb8e4rbZwkSd6Ypcbl3P8WVncEv4Jt8muRMh5jEC06jrU/l9YISgZPVVQKBHXvMJCahX3eZ5/M2aOAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1070-9b317cc3/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1070-9b317cc3/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1070-9b317cc3/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1070-9b317cc3/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1070-9b317cc3/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1070-9b317cc3/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "289mm",
+    "aperture": "f/5.6",
+    "shutterSpeed": "1/1250s",
+    "iso": 100
+  },
+  "tags": []
+}

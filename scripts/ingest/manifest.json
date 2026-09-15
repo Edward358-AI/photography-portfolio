@@ -418,5 +418,41 @@
     "storage": "r2",
     "source": "IMG_4406.jpg",
     "ingestedAt": "2026-09-08T05:18:36.489Z"
+  },
+  "e924cdbd35270f36db83fe25cdc94854c64f46811c43263565e73544f3c5ba23": {
+    "id": "img-2832-e924cdbd",
+    "storage": "r2",
+    "source": "IMG_2832.jpg",
+    "ingestedAt": "2026-09-15T05:19:35.075Z"
+  },
+  "8478cc6d28a4999cac3c30604406a9eb2b64aef48a8a129fb12406014d55e1ad": {
+    "id": "img-1030-8478cc6d",
+    "storage": "r2",
+    "source": "IMG_1030.jpg",
+    "ingestedAt": "2026-09-15T05:19:41.317Z"
+  },
+  "4199ae7bfab3e9d856838a83c7976be377012a3e797df7b7064ae8c47c11aa97": {
+    "id": "img-1035-4199ae7b",
+    "storage": "r2",
+    "source": "IMG_1035.jpg",
+    "ingestedAt": "2026-09-15T05:20:02.421Z"
+  },
+  "15b35458a04c167498e59cae0dc3e29d4d293b65754aecbea177579122b3eb33": {
+    "id": "img-1040-15b35458",
+    "storage": "r2",
+    "source": "IMG_1040.jpg",
+    "ingestedAt": "2026-09-15T05:20:07.652Z"
+  },
+  "9b317cc33aab0c1af22aa23bb4f2cb49878edf3ca2b8558ef7fe6b38b9423c6d": {
+    "id": "img-1070-9b317cc3",
+    "storage": "r2",
+    "source": "IMG_1070.jpg",
+    "ingestedAt": "2026-09-15T05:20:11.492Z"
+  },
+  "40b8ff08057cb147e8ad22fca9f1610bf97dd4baffb3ac06eb6bcdb42d41ee2f": {
+    "id": "img-1097-40b8ff08",
+    "storage": "r2",
+    "source": "IMG_1097.jpg",
+    "ingestedAt": "2026-09-15T05:20:22.092Z"
   }
 }

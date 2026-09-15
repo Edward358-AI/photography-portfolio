@@ -1,0 +1,38 @@
+{
+  "title": "SF California & Gough Street Sunrise 3",
+  "alt": "The Bay Bridge tower framed in the California Street corridor at dawn, a dark cloud crossing the peach sky as headlights climb the hill",
+  "date": "2026-09-04T18:37:28.740Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 3839,
+    "height": 5375,
+    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBQCdASoYACIAPy18s1Oup6SitVv4AdAliWQAs7P8AwFuoADI2sWgIylxTCBL9bfu3HsozVJZIAD+6PDRPtDxzP5CysVbIsdLghW1nhV8M3t9IrB12L2OwI4VWl02VGHP438jfmmu6M2fNF6dkYbaXjmQlRYAAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1040-15b35458/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1040-15b35458/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1040-15b35458/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1040-15b35458/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1040-15b35458/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1040-15b35458/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "403mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/125s",
+    "iso": 800
+  },
+  "tags": []
+}

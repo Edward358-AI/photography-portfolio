@@ -1,0 +1,38 @@
+{
+  "title": "Shooting Star Through Mountains and Clouds",
+  "alt": "Vintage USAF Lockheed T-33 Shooting Star banking with smoke on, forested mountainsides and hillside houses behind it under heavy clouds",
+  "date": "2025-10-10T01:41:02.400Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2512,
+    "height": 3768,
+    "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBQCdASoYACQAPzmQvVavKiYjsBVYAeAnCWcA0qwLQ7L+9uqN8GMfEoDnxJ/jk92BFY5pA+5gAP4iQZnlDrDBu9IapVmJ8LLBrtr3KEvw5oieqvwV18xshK8rLiNzAhDhQo2MHHkAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-2832-e924cdbd/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2832-e924cdbd/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-2832-e924cdbd/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2832-e924cdbd/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-2832-e924cdbd/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2832-e924cdbd/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "403mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/2500s",
+    "iso": 400
+  },
+  "tags": []
+}

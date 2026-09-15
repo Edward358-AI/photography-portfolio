@@ -1,0 +1,43 @@
+{
+  "title": "SF California & Gough Street Sunrise 2",
+  "alt": "Cable-car tracks gleaming down the California Street hill in blue dawn light, the Bay Bridge tower faint at the street's end",
+  "date": "2026-09-04T18:34:30.100Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 3999,
+    "height": 5998,
+    "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACQBQCdASoYACQAPzWCsFOvKKQisAqp4CaJQBcGBFj13agRQ+BLCt1W16wHpFPd0PbyKzp7cAD+uvH0mFiVPtAY0ihAM7lTNeKHq75t+0Mw+o+1HdU68zj29CTHP9rb14t1c1NX0bV2txrdPM8AAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1035-4199ae7b/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1035-4199ae7b/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1035-4199ae7b/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1035-4199ae7b/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1035-4199ae7b/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1035-4199ae7b/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-1035-4199ae7b/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1035-4199ae7b/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/500s",
+    "iso": 1600
+  },
+  "tags": []
+}
