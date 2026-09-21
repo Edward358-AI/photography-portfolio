@@ -1,0 +1,43 @@
+{
+  "title": "United Friend Ship in B&W",
+  "alt": "Black-and-white view of a United Airbus A320 in the retro Friend Ship heritage livery taxiing along the bayfront, hills behind",
+  "date": "2025-09-28T07:11:09.250Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 4544,
+    "height": 2556,
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABwAwCdASoYAA0APzmEuVOvKKWisAgB4CcJZwDCgBrrvHkWQ8AA/j+WDEiQxW/VvVpY6y+BL0raw6zJYbXIaaGKkSgA6jiS8AA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-2227-3d4f8562/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2227-3d4f8562/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-2227-3d4f8562/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2227-3d4f8562/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-2227-3d4f8562/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2227-3d4f8562/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-2227-3d4f8562/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2227-3d4f8562/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "500mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/60s",
+    "iso": 6400
+  },
+  "tags": []
+}

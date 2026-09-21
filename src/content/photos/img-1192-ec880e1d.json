@@ -1,0 +1,43 @@
+{
+  "title": "Chan Shun Auditorium",
+  "alt": "Wide-angle view up the neoclassical facade of Chan Shun Auditorium, columns and carved eagle relief against a clear sky",
+  "date": "2026-09-12T03:32:22.240Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 4000,
+    "height": 6000,
+    "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAACQBgCdASoYACQAPzl+t1OvJ6UitVgIAeAnCWMAv7ANQLQlj3N0rPW2A9duPll4GjTsKLTbZjzw1OKjloTwAP5vkkwfu7hwCWj7S7uTa8LxTZmoH5z0m/awwVc6r8R9YjyDdljTPwtCtN7Sxkebw+pr7vrquqrWsYRlwvXycC3i3nOlpk8YAAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1192-ec880e1d/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1192-ec880e1d/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1192-ec880e1d/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1192-ec880e1d/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1192-ec880e1d/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1192-ec880e1d/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-1192-ec880e1d/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1192-ec880e1d/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "18mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/160s",
+    "iso": 100
+  },
+  "tags": []
+}

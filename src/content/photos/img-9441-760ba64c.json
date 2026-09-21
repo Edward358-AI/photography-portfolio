@@ -1,0 +1,43 @@
+{
+  "title": "American US Airways Heritage",
+  "alt": "American Airlines Airbus A321 in the US Airways heritage livery taxiing under flat grey skies, an airport pickup truck in the foreground",
+  "date": "2026-07-11T06:32:34.320Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5455,
+    "height": 3637,
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoYABAAPzmEuVOvKKWisAgB4CcJZwDImB5PsvcHBRvjEAD+ojZ7xfJnuRe9bWPl8ICV5Vvk7/kJivc5OcN7wAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-9441-760ba64c/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9441-760ba64c/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-9441-760ba64c/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9441-760ba64c/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-9441-760ba64c/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9441-760ba64c/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-9441-760ba64c/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-9441-760ba64c/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "100mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/800s",
+    "iso": 100
+  },
+  "tags": []
+}

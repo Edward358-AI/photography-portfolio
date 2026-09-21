@@ -1,0 +1,43 @@
+{
+  "title": "Strawberry Creek Keyhole",
+  "alt": "A small waterfall on a tree-shaded creek, framed through an opening in a stone balustrade",
+  "date": "2026-09-12T04:35:20.150Z",
+  "category": "nature",
+  "featured": false,
+  "image": {
+    "width": 3896,
+    "height": 5195,
+    "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACwBQCdASoYACAAPzmOulcvKaUjqA1R4CcJYgCw7A35FrXYofo3APekDMSn/ivT9Qssifhet4AA/ujw81lyHXhn7cGr1m+iyTm8YRdOKYQf5HPqvEw70tRj3XGKwBrLeb4jBD21k3MGSXOgJ1aobrUR7XEJPs6JABtFOyZTwrep2QBoAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1294-01aafefd/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1294-01aafefd/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1294-01aafefd/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1294-01aafefd/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1294-01aafefd/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1294-01aafefd/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-1294-01aafefd/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1294-01aafefd/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "18mm",
+    "aperture": "f/4.5",
+    "shutterSpeed": "1/60s",
+    "iso": 500
+  },
+  "tags": []
+}

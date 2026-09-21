@@ -1,0 +1,43 @@
+{
+  "title": "Downtown Berkeley in B&W",
+  "alt": "Black-and-white downtown block with a brick hotel and glass atrium, car roofs and grasses in the foreground",
+  "date": "2026-09-12T03:49:49.460Z",
+  "category": "cityscape",
+  "featured": false,
+  "image": {
+    "width": 3985,
+    "height": 3188,
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAwCdASoYABMAPzWAt1OvP6Uit/VYA/AmiWkAAB3mcP8M+Rw/gQAA/hTLFvEcM8HnUcVLR+yfI9QQmEztLthxauaO1gAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1269-37f5b923/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1269-37f5b923/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1269-37f5b923/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1269-37f5b923/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1269-37f5b923/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1269-37f5b923/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-1269-37f5b923/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1269-37f5b923/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "18mm",
+    "aperture": "f/4.5",
+    "shutterSpeed": "1/1250s",
+    "iso": 100
+  },
+  "tags": []
+}

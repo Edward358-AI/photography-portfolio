@@ -1,0 +1,38 @@
+{
+  "title": "Berkeley Sidewalks",
+  "alt": "Two people walking a sun-drenched commercial sidewalk past shopfronts, cars and trees lining the street ahead",
+  "date": "2026-09-12T03:40:43.470Z",
+  "category": "street",
+  "featured": false,
+  "image": {
+    "width": 3357,
+    "height": 4700,
+    "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACwBQCdASoYACIAPzWKtlOvKiUitVQIAeAmiWMAwQ+mhEHeC3KEf/NKDcXg/ZYY/DupHAqsLMAA/uNyL5/z4/+mhdKRiY6Hd/GKeyjv4HBU8Sg75GiQCR+mPiwYwA13u8EGMFTngnrXu4JrLvhDPLsMST6ZYm2vwIDiZEU84nQAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1229-c79fe05a/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1229-c79fe05a/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1229-c79fe05a/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1229-c79fe05a/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1229-c79fe05a/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1229-c79fe05a/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "24mm",
+    "aperture": "f/5.6",
+    "shutterSpeed": "1/640s",
+    "iso": 100
+  },
+  "tags": []
+}

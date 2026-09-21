@@ -1,0 +1,43 @@
+{
+  "title": "SAS Golden Hour Taxi",
+  "alt": "SAS Airbus A330 taxiing beside the bay at golden hour, its purple tail against an orange haze over the water",
+  "date": "2025-11-01T06:06:22.320Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5624,
+    "height": 3749,
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAwCdASoYABAAPzmIulQvKSWjMAgB4CcJZACdABsRhRgvcWvAAPdzApOPdefbJ+L1gbtltH9moKGj9bBZCgUorW1/swigAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-5659-enhanced-nr-83894436/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5659-enhanced-nr-83894436/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-5659-enhanced-nr-83894436/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5659-enhanced-nr-83894436/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-5659-enhanced-nr-83894436/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5659-enhanced-nr-83894436/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-5659-enhanced-nr-83894436/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5659-enhanced-nr-83894436/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "267mm",
+    "aperture": "f/6.3",
+    "shutterSpeed": "1/250s",
+    "iso": 160
+  },
+  "tags": []
+}

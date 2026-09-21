@@ -1,0 +1,43 @@
+{
+  "title": "Sunstar at Sather Gate",
+  "alt": "Sun flaring through tall redwoods beside the green bronze pillar of Sather Gate against a deep blue sky",
+  "date": "2026-09-12T04:35:05.910Z",
+  "category": "nature",
+  "featured": false,
+  "image": {
+    "width": 3892,
+    "height": 5838,
+    "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBQCdASoYACQAPzGGtVOuqaUitVgIAdAmCWUAy2gWZWEhOvnOHqyCyhModsmZZfcXPDnQAAD+uRFIkBK6CNd+abjXRih1KfXTFqNa3/rgB42RUqgRfO/mtQEGgWRrj7UZ5h11Y6Say59jNpRMJPaYdSgAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1291-178c4960/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1291-178c4960/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1291-178c4960/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1291-178c4960/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1291-178c4960/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1291-178c4960/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-1291-178c4960/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1291-178c4960/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "18mm",
+    "aperture": "f/4.5",
+    "shutterSpeed": "1/640s",
+    "iso": 100
+  },
+  "tags": []
+}

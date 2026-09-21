@@ -1,0 +1,38 @@
+{
+  "title": "Delta, Up Close and Personal",
+  "alt": "Tight close-up of a Delta widebody nose at the gate, cockpit windows curving like sunglasses above the airline titles",
+  "date": "2026-09-12T00:56:16.020Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2176,
+    "height": 1741,
+    "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASoYABMAPzmAuVSvJyWjMBgMAeAnCWUAs4AQPr9JN3HowI++BIC79+Vgv4AA/svWThhvKhXX/RFzpzwYHWPE6wkkYL8mZ3bTYhVgPdoVsjc6HMhWHsrLW8Ty58E/uQkpJLiiwfKigAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1134-79ae2daa/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1134-79ae2daa/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1134-79ae2daa/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1134-79ae2daa/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1134-79ae2daa/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1134-79ae2daa/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "70mm",
+    "aperture": "f/9",
+    "shutterSpeed": "1/200s",
+    "iso": 100
+  },
+  "tags": []
+}

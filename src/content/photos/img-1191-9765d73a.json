@@ -1,0 +1,38 @@
+{
+  "title": "Campus Stroll",
+  "alt": "Two people walking a sunny campus path toward a grand hall, flower buds in the blurred foreground",
+  "date": "2026-09-12T03:32:05.450Z",
+  "category": "street",
+  "featured": false,
+  "image": {
+    "width": 3216,
+    "height": 4502,
+    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASoYACIAPzGItVOuqiUkNVgIAdAmCUAZiwIqByChfHq8uC/FIjvEPU8kngAA/iLH+q9ODXj2PVyQ1f8UJwZQjC8oaIcKHM44jGisPqAXDOk1yTXwYXwrwnFZue3wMyzbFxsotii3MbvISd31bdeBzJQAAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1191-9765d73a/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1191-9765d73a/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1191-9765d73a/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1191-9765d73a/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1191-9765d73a/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1191-9765d73a/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "18mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/60s",
+    "iso": 100
+  },
+  "tags": []
+}
