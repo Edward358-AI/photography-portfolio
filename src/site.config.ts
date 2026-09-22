@@ -13,6 +13,7 @@ export const SITE = {
   socials: [{ label: 'GitHub', href: 'https://github.com/Edward358-AI' }],
   nav: [
     { label: 'Photos', href: '/photos/' },
+    { label: 'Prints', href: '/prints/' },
     { label: 'About', href: '/about/' },
   ],
 } as const;

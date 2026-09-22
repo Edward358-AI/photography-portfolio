@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<!-- NOTE: placeholder copy — Edward rewrites in his own voice. -->
+<Base title="Something went wrong" description="Print request could not be submitted.">
+  <div class="flex flex-col items-center gap-4 py-24 text-center">
+    <p class="font-display text-3xl font-semibold">That didn't go through</p>
+    <p class="max-w-md text-muted">
+      Something in the form didn't check out — make sure each requested photo has a title,
+      a size like <code>8x10</code>, and a finish picked, then try again.
+    </p>
+    <a
+      href="/prints/"
+      class="mt-2 rounded-lg border border-line px-4 py-2 text-sm text-muted transition-colors hover:border-faint hover:text-fg"
+    >
+      Back to the form
+    </a>
+  </div>
+</Base>

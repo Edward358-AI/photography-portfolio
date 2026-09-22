@@ -17,3 +17,9 @@ public/images/
 # logs
 npm-debug.log*
 *.log
+
+# print fulfillment output (metadata-stripped full-size copies)
+print-out/
+
+# wrangler local dev state
+.wrangler/

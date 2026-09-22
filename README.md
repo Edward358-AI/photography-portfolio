@@ -54,6 +54,29 @@ location/tags/featured over, and deletes the old JSON, manifest entry and R2 var
 GPS EXIF is never published: variants are stripped of all metadata, and GPS tags are never
 written to content JSON.
 
+## Print requests
+
+Visitors can request free prints at `/prints/` (name, email, up to 3 photos with size and
+matte/gloss finish). The form POSTs to a Cloudflare Pages Function
+([functions/api/print-request.ts](functions/api/print-request.ts)) that validates and writes
+each request into the **private** R2 bucket `print-requests` — no third-party services, no
+email provider, no credentials in code (the Function uses an R2 binding named `REQUESTS`,
+configured in the Pages dashboard).
+
+Fulfillment workflow:
+
+```bash
+npm run requests                  # list pending requests (uses .env credentials)
+# export the full-size photo from Lightroom (no watermark), then:
+npm run printcopy -- export.jpg   # lossless metadata strip → print-out/, attach to reply
+npm run requests -- --done <id>   # archive after sending  (--purge <id> deletes spam)
+```
+
+One-time setup: create the private bucket `print-requests` (no public access, no domain),
+then Pages project → Settings → Bindings → R2 bucket: name `REQUESTS` → `print-requests`.
+Local testing needs `npx wrangler pages dev dist` (Astro's dev server doesn't run Functions).
+See [docs/print-requests.md](docs/print-requests.md) for the full design and spam posture.
+
 ## Going live — one-time Cloudflare setup
 
 1. **Cloudflare account** (free) → enable **R2** (requires a payment card on file; the free

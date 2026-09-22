@@ -1,0 +1,143 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+/* All published photo titles feed the type-ahead datalist — always current,
+ * zero JavaScript. */
+const photos = await getCollection('photos');
+const titles = [...new Set(photos.map((p) => p.data.title))].sort((a, b) => a.localeCompare(b));
+
+const sizePattern = String.raw`\s*\d{1,2}\s*[xX×]\s*\d{1,2}\s*`;
+const blocks = [1, 2, 3] as const;
+---
+
+<!-- NOTE: page copy below is placeholder — Edward rewrites in his own voice. -->
+<Base title="Prints" description="Request a free print-quality copy of any photo in the portfolio.">
+  <div class="mx-auto max-w-2xl">
+    <h1 class="mb-6 font-display text-2xl font-semibold tracking-tight">Prints</h1>
+    <div class="prose">
+      <p>
+        Like a photo enough to hang it on a wall? Send me a request and I'll email you the
+        full-resolution file for free — this is a hobby, not a shop. Up to three photos per
+        request. Standard print sizes may crop the frame a little; I'll confirm the details
+        with you by email before sending anything.
+      </p>
+    </div>
+
+    <form method="POST" action="/api/print-request" class="mt-8 flex flex-col gap-6">
+      <div class="grid gap-4 sm:grid-cols-2">
+        <label class="flex flex-col gap-1.5 text-sm text-muted">
+          Name
+          <input
+            type="text"
+            name="name"
+            required
+            maxlength="100"
+            class="rounded-lg border border-line bg-raised px-3 py-2 text-fg outline-none transition-colors focus:border-accent"
+          />
+        </label>
+        <label class="flex flex-col gap-1.5 text-sm text-muted">
+          Email
+          <input
+            type="email"
+            name="email"
+            required
+            maxlength="200"
+            class="rounded-lg border border-line bg-raised px-3 py-2 text-fg outline-none transition-colors focus:border-accent"
+          />
+        </label>
+      </div>
+
+      <!-- Honeypot: humans never see or fill this. -->
+      <div class="hp" aria-hidden="true">
+        <label>
+          Website
+          <input type="text" name="website" tabindex="-1" autocomplete="off" />
+        </label>
+      </div>
+
+      {
+        blocks.map((i) => (
+          <fieldset class="rounded-xl border border-line/70 p-4">
+            <legend class="px-1 text-sm text-faint">
+              Photo {i}
+              {i > 1 && ' (optional)'}
+            </legend>
+            <div class="grid gap-4 sm:grid-cols-2">
+              <label class="flex flex-col gap-1.5 text-sm text-muted sm:col-span-2">
+                Photo title
+                <input
+                  type="text"
+                  name={`p${i}_title`}
+                  list="photo-titles"
+                  required={i === 1}
+                  maxlength="120"
+                  placeholder="Start typing a title…"
+                  class="rounded-lg border border-line bg-raised px-3 py-2 text-fg outline-none transition-colors focus:border-accent"
+                />
+              </label>
+              <label class="flex flex-col gap-1.5 text-sm text-muted">
+                Print size (inches)
+                <input
+                  type="text"
+                  name={`p${i}_size`}
+                  required={i === 1}
+                  pattern={sizePattern}
+                  placeholder="8x10"
+                  title="Width x height in inches, e.g. 8x10"
+                  class="rounded-lg border border-line bg-raised px-3 py-2 text-fg outline-none transition-colors focus:border-accent"
+                />
+              </label>
+              <div class="flex flex-col gap-1.5 text-sm text-muted">
+                Finish
+                <div class="flex gap-4 py-2">
+                  <label class="flex items-center gap-2 text-fg">
+                    <input type="radio" name={`p${i}_finish`} value="matte" required={i === 1} class="accent-accent" />
+                    Matte
+                  </label>
+                  <label class="flex items-center gap-2 text-fg">
+                    <input type="radio" name={`p${i}_finish`} value="glossy" class="accent-accent" />
+                    Glossy
+                  </label>
+                </div>
+              </div>
+            </div>
+          </fieldset>
+        ))
+      }
+
+      <datalist id="photo-titles">
+        {titles.map((t) => <option value={t} />)}
+      </datalist>
+
+      <label class="flex flex-col gap-1.5 text-sm text-muted">
+        Notes (optional)
+        <textarea
+          name="notes"
+          maxlength="500"
+          rows="3"
+          placeholder="Anything else — custom size, cropping preference…"
+          class="rounded-lg border border-line bg-raised px-3 py-2 text-fg outline-none transition-colors focus:border-accent"
+        ></textarea>
+      </label>
+
+      <button
+        type="submit"
+        class="self-start rounded-lg border border-line bg-raised px-5 py-2.5 text-sm font-medium transition-colors hover:border-accent hover:text-accent"
+      >
+        Send request
+      </button>
+    </form>
+  </div>
+</Base>
+
+<style>
+  /* Honeypot lives off-canvas — hidden from people, visible to naive bots. */
+  .hp {
+    position: absolute;
+    left: -9999px;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+  }
+</style>

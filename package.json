@@ -14,7 +14,9 @@
     "check": "astro check",
     "fixtures": "node scripts/ingest/make-fixtures.mjs",
     "ingest": "node scripts/ingest/index.mjs",
-    "replace": "node scripts/ingest/replace.mjs"
+    "replace": "node scripts/ingest/replace.mjs",
+    "requests": "node scripts/requests.mjs",
+    "printcopy": "node scripts/printcopy.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
