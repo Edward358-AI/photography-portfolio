@@ -10,8 +10,10 @@
  *   npm run requests -- --done <id>     # archive to done/ after fulfilling
  *   npm run requests -- --purge <id>    # delete outright (spam)
  *
- * Uses the same .env R2 credentials as ingest, plus optional
- * PRINT_REQUESTS_BUCKET (defaults to "print-requests").
+ * Credentials from .env: PRINT_REQUESTS_ACCESS_KEY_ID / PRINT_REQUESTS_SECRET_ACCESS_KEY
+ * if set (a token scoped to the print-requests bucket), otherwise the main
+ * R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY. R2_ACCOUNT_ID is shared.
+ * PRINT_REQUESTS_BUCKET defaults to "print-requests".
  */
 
 import { existsSync } from 'node:fs';
@@ -48,9 +50,10 @@ async function loadDotEnv() {
 }
 
 await loadDotEnv();
-const missing = ['R2_ACCOUNT_ID', 'R2_ACCESS_KEY_ID', 'R2_SECRET_ACCESS_KEY'].filter((k) => !process.env[k]);
-if (missing.length) {
-  console.error(`Missing in .env: ${missing.join(', ')}`);
+const accessKeyId = process.env.PRINT_REQUESTS_ACCESS_KEY_ID || process.env.R2_ACCESS_KEY_ID;
+const secretAccessKey = process.env.PRINT_REQUESTS_SECRET_ACCESS_KEY || process.env.R2_SECRET_ACCESS_KEY;
+if (!process.env.R2_ACCOUNT_ID || !accessKeyId || !secretAccessKey) {
+  console.error('Missing R2_ACCOUNT_ID and/or access credentials in .env');
   process.exit(1);
 }
 const BUCKET = process.env.PRINT_REQUESTS_BUCKET || 'print-requests';
@@ -59,10 +62,7 @@ const s3 = await import('@aws-sdk/client-s3');
 const r2 = new s3.S3Client({
   region: 'auto',
   endpoint: `https://${process.env.R2_ACCOUNT_ID}.r2.cloudflarestorage.com`,
-  credentials: {
-    accessKeyId: process.env.R2_ACCESS_KEY_ID,
-    secretAccessKey: process.env.R2_SECRET_ACCESS_KEY,
-  },
+  credentials: { accessKeyId, secretAccessKey },
 });
 
 /** Accepts a bare id, a filename, or a full key. */

@@ -74,6 +74,9 @@ npm run requests -- --done <id>   # archive after sending  (--purge <id> deletes
 
 One-time setup: create the private bucket `print-requests` (no public access, no domain),
 then Pages project → Settings → Bindings → R2 bucket: name `REQUESTS` → `print-requests`.
+For the `npm run requests` CLI, create a second R2 API token (Object Read & Write) scoped to only
+the `print-requests` bucket and put it in `.env` as `PRINT_REQUESTS_ACCESS_KEY_ID` /
+`PRINT_REQUESTS_SECRET_ACCESS_KEY` (see `.env.example`) — the photo-upload token can't read that bucket.
 Local testing needs `npx wrangler pages dev dist` (Astro's dev server doesn't run Functions).
 See [docs/print-requests.md](docs/print-requests.md) for the full design and spam posture.
 
