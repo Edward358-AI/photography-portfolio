@@ -1,0 +1,43 @@
+{
+  "title": "Virgin Atlantic and Vietnam Airlines in B&W",
+  "alt": "Black-and-white panorama of a Vietnam Airlines widebody and a Virgin Atlantic Airbus A350 on adjacent taxiways, bay and hills behind them",
+  "date": "2025-11-01T05:42:03.960Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 10832,
+    "height": 4514,
+    "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAABwAwCdASoYAAoAPzmIvlOvKScisAgB4CcJaQAASeKZJwzdKAAA/nacSXsDANgHyro6WDvKITH8BYAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-5475-790e8dba/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5475-790e8dba/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-5475-790e8dba/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5475-790e8dba/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-5475-790e8dba/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5475-790e8dba/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-5475-790e8dba/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-5475-790e8dba/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/250s",
+    "iso": 100
+  },
+  "tags": []
+}

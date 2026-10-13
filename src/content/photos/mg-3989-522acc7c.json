@@ -1,0 +1,43 @@
+{
+  "title": "Agave at the Gate",
+  "alt": "A white airliner parked at a terminal gate, seen through spiky green agave and succulents in the foreground, in warm muted light",
+  "date": "2025-10-12T02:34:33.800Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5767,
+    "height": 3845,
+    "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoYABAAPzmGuVOvKSWisAgB4CcJQBhQBH2yHwAZLtJJTJrf8AD+2k4uIPyulFdF03R4bjHjmgMNQZhWLexQ+P68XFONwDCWZx5A4QotexrrwAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/mg-3989-522acc7c/640.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3989-522acc7c/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/mg-3989-522acc7c/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3989-522acc7c/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/mg-3989-522acc7c/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3989-522acc7c/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/mg-3989-522acc7c/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3989-522acc7c/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "75mm",
+    "aperture": "f/4",
+    "shutterSpeed": "1/500s",
+    "iso": 100
+  },
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "title": "A Hand of Cards at Dusk",
+  "alt": "A hand holding a fanned deck of geometric-patterned playing cards, lit in warm dusk light over dry bark mulch",
+  "date": "2026-09-26T07:42:52.590Z",
+  "category": "nature",
+  "featured": false,
+  "image": {
+    "width": 3531,
+    "height": 4414,
+    "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBQCdASoYAB4APzmGulOvKSYisBgMAeAnCUAX/Yr9+6sy5xtsLf/CVB5FJKr8w5urU8AA/vQjfOdQxhDQgv6j9a3+xAY7NBGFiGmBap5sofSA3pq2LnIeSlqlOcsRSxasaYSh9wp5XNSNgAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1635-84810243/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1635-84810243/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1635-84810243/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1635-84810243/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1635-84810243/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1635-84810243/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF16mm F2.8 STM",
+    "focalLength": "16mm",
+    "aperture": "f/2.8",
+    "shutterSpeed": "1/10s",
+    "iso": 12800
+  },
+  "tags": []
+}

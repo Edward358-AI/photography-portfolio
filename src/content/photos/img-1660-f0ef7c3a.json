@@ -1,0 +1,38 @@
+{
+  "title": "Next Stop, SFO Airport",
+  "alt": "A BART train waiting at a station platform beneath a red SFO Airport destination sign, brick-patterned platform floor and a Build faster column banner at right",
+  "date": "2026-10-02T19:35:45.530Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3436,
+    "height": 4295,
+    "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwBACdASoYAB4APzmQwVavKiejqAqp4CcJYwAAj/XMGj2o9bbZx1LzedG4ssa27gAA/uvyGO60tno81PrtE2DCMmO3Nj4+Nu9AEOhOnB+jssYnIfQE818VzSG3jhwpsZ37fX0sDVUfuwAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1660-f0ef7c3a/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1660-f0ef7c3a/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1660-f0ef7c3a/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1660-f0ef7c3a/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1660-f0ef7c3a/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1660-f0ef7c3a/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "17.0-50.0 mm",
+    "focalLength": "18mm",
+    "aperture": "f/2.8",
+    "shutterSpeed": "1/60s",
+    "iso": 800
+  },
+  "tags": []
+}

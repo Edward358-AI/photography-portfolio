@@ -1,0 +1,35 @@
+{
+  "title": "Spirit in Motion",
+  "alt": "Spirit Airlines Airbus jet just above the runway, gear still down, with airport buildings and a parked plane streaked by panning blur",
+  "date": "2026-09-27T07:01:53.000Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 4371,
+    "height": 2914,
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYABAAPzmGu1OvKSYisAgB4CcJQBjegmd6Ow0ZWlCvZyoAAP676eexf2pBFfoGdpUdFUakwBiQSjg0cikf8nEfMqnzOdStCeFGBugA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-6041-327b4748/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6041-327b4748/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-6041-327b4748/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6041-327b4748/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-6041-327b4748/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6041-327b4748/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-6041-327b4748/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-6041-327b4748/3840.webp"
+      }
+    ]
+  },
+  "tags": []
+}

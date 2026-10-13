@@ -1,0 +1,43 @@
+{
+  "title": "Rear Wing Itasha",
+  "alt": "Rear view of a wide-body car with a huge rear wing and a pink-and-purple anime wrap, twin exhausts below",
+  "date": "2026-09-19T04:39:46.870Z",
+  "category": "street",
+  "featured": false,
+  "image": {
+    "width": 5794,
+    "height": 3863,
+    "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoYABAALvmczmclLy8vDwD4SxAE6AIpXkzhe9OPIsYKAP7uiaS17PNp8uwmlOImgAE6zLjYzBzvvlEnORtnhp8jwhtHTwAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-1388-aebe20c6/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1388-aebe20c6/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-1388-aebe20c6/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1388-aebe20c6/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-1388-aebe20c6/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1388-aebe20c6/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-1388-aebe20c6/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-1388-aebe20c6/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+    "focalLength": "18mm",
+    "aperture": "f/11",
+    "shutterSpeed": "1/160s",
+    "iso": 100
+  },
+  "tags": []
+}

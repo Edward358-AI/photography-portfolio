@@ -1,0 +1,43 @@
+{
+  "title": "Cathay Pacific B&W Touchdown",
+  "alt": "Black-and-white view of a Cathay Pacific Airbus A350 about to touch down, low clouds and hills behind it",
+  "date": "2026-01-05T21:33:58.700Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3840,
+    "height": 1600,
+    "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAABwAwCdASoYAAoAPzmMvlUvKaajMAgB4CcJaQAAUpx+1Secl6AA/naf3be7kHY0i9CPLAAAAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-7365-cf54a147/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7365-cf54a147/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-7365-cf54a147/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7365-cf54a147/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-7365-cf54a147/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7365-cf54a147/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-7365-cf54a147/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-7365-cf54a147/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "186mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/320s",
+    "iso": 100
+  },
+  "tags": []
+}

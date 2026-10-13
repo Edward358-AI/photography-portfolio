@@ -1,0 +1,43 @@
+{
+  "title": "Alaska Dusk Roll",
+  "alt": "Alaska Airlines Boeing 737 rolling along the runway at dusk, terminal buildings blurred by panning",
+  "date": "2025-10-10T06:24:30.630Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 5905,
+    "height": 2460,
+    "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAwCdASoYAAoAPzmIu1QvKSYjMAgB4CcJYwCdACHZsJKUSqO4gAD+zTqdIR0RIixyZgavFooLEseOrDq5eTAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/mg-3393-enhanced-nr-71ba414e/640.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3393-enhanced-nr-71ba414e/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/mg-3393-enhanced-nr-71ba414e/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3393-enhanced-nr-71ba414e/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/mg-3393-enhanced-nr-71ba414e/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3393-enhanced-nr-71ba414e/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/mg-3393-enhanced-nr-71ba414e/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/mg-3393-enhanced-nr-71ba414e/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "289mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/30s",
+    "iso": 100
+  },
+  "tags": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Final Approach Under the Moon",
+  "alt": "Head-on view of an airliner on final approach against a pink dusk sky with a small moon, a person's silhouette in the lower-left corner",
+  "date": "2026-08-24T08:03:46.250Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3850,
+    "height": 5775,
+    "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoYACQAPzmOtVUvKqSosBVaqeAnCWMAz2REckOg0tck4sIAAPxUkjIVbV8VLj4ElY3Q+qeEJ6EPY9qfhflC7udzFbPz4eRt1w8o3rnbRRZNYAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-0925-793a92dc/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0925-793a92dc/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-0925-793a92dc/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0925-793a92dc/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-0925-793a92dc/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0925-793a92dc/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-0925-793a92dc/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-0925-793a92dc/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "EF70-300mm f/4-5.6 IS USM",
+    "focalLength": "85mm",
+    "aperture": "f/4",
+    "shutterSpeed": "1/320s",
+    "iso": 800
+  },
+  "tags": []
+}

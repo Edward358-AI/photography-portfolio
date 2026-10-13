@@ -556,5 +556,125 @@
     "storage": "r2",
     "source": "IMG_1342.jpg",
     "ingestedAt": "2026-09-21T10:40:15.554Z"
+  },
+  "e5e474f4ddbac8d7b5472261d27e8d9e32b051e1e194d74649b3fffbacd05cec": {
+    "id": "img-0307-e5e474f4",
+    "storage": "r2",
+    "source": "IMG_0307.jpg",
+    "ingestedAt": "2026-10-13T21:17:32.690Z"
+  },
+  "793a92dc18f201098a0519dc52a10b1baf28125646c1598a0850c62c9fc62f83": {
+    "id": "img-0925-793a92dc",
+    "storage": "r2",
+    "source": "IMG_0925.jpg",
+    "ingestedAt": "2026-10-13T21:17:39.649Z"
+  },
+  "ed6da3d84c56de45b8f6d4e33beed90bbf30d398fd53127da22be03a569b8c9e": {
+    "id": "img-4130-ed6da3d8",
+    "storage": "r2",
+    "source": "IMG_4130.jpg",
+    "ingestedAt": "2026-10-13T21:17:41.288Z"
+  },
+  "96a647eddb0a49799c0c5325e03b84d08e74045ea9ecfe9f7bacf2a894df5927": {
+    "id": "img-4877-96a647ed",
+    "storage": "r2",
+    "source": "IMG_4877.jpg",
+    "ingestedAt": "2026-10-13T21:17:45.808Z"
+  },
+  "790e8dba514dac3b164d0a834a7e54e5f0f3eb91f510cda3ef7ba71f1b4ca195": {
+    "id": "img-5475-790e8dba",
+    "storage": "r2",
+    "source": "IMG_5475.jpg",
+    "ingestedAt": "2026-10-13T21:17:51.976Z"
+  },
+  "a7a4f6fea7bd1c9d852e103ec99d4a9eec35945066fb99995e65a644e10f0b10": {
+    "id": "img-6041-2-a7a4f6fe",
+    "storage": "r2",
+    "source": "IMG_6041-2.jpg",
+    "ingestedAt": "2026-10-13T21:17:58.147Z"
+  },
+  "347206ddb265963edd78e4ff63bbcd0578b1be0c8a5c7dd800f485e3243662b6": {
+    "id": "img-6041-3-347206dd",
+    "storage": "r2",
+    "source": "IMG_6041-3.jpg",
+    "ingestedAt": "2026-10-13T21:18:05.072Z"
+  },
+  "327b4748f9d444c8d94fde988e6a4b10852a1cd2b008c25965c28bd10cbc38a7": {
+    "id": "img-6041-327b4748",
+    "storage": "r2",
+    "source": "IMG_6041.jpg",
+    "ingestedAt": "2026-10-13T21:18:11.207Z"
+  },
+  "cf54a147df0ea5fb1ab1eb5ad876674ea8956171140b6c9242d17e9a52339d17": {
+    "id": "img-7365-cf54a147",
+    "storage": "r2",
+    "source": "IMG_7365.jpg",
+    "ingestedAt": "2026-10-13T21:18:15.559Z"
+  },
+  "71ba414e512371d3d29d34eeaf3026972ad9960be057ea771ab5aa5dc7459860": {
+    "id": "mg-3393-enhanced-nr-71ba414e",
+    "storage": "r2",
+    "source": "_MG_3393-Enhanced-NR.jpg",
+    "ingestedAt": "2026-10-13T21:18:20.553Z"
+  },
+  "522acc7c1edd032143e0d5277511fdf84054bb098085f21dc686f680b4ddb30e": {
+    "id": "mg-3989-522acc7c",
+    "storage": "r2",
+    "source": "_MG_3989.jpg",
+    "ingestedAt": "2026-10-13T21:18:27.579Z"
+  },
+  "bda4205af5bab06d172e18261fe798480f86469aa06d51a40a5fa66a026bf108": {
+    "id": "mg-4216-enhanced-nr-bda4205a",
+    "storage": "r2",
+    "source": "_MG_4216-Enhanced-NR.jpg",
+    "ingestedAt": "2026-10-13T21:18:32.723Z"
+  },
+  "f0ef7c3a3090e4951bab4cdd72ab44536d30a45d454b6f0866e1274d814c8bb3": {
+    "id": "img-1660-f0ef7c3a",
+    "storage": "r2",
+    "source": "IMG_1660.jpg",
+    "ingestedAt": "2026-10-13T21:18:37.390Z"
+  },
+  "6121eb5f30b53804af0887059d8a5fa697679bc51b5e4f54a24e5bb331e17d94": {
+    "id": "img-5555-6121eb5f",
+    "storage": "r2",
+    "source": "IMG_5555.jpg",
+    "ingestedAt": "2026-10-13T21:18:43.040Z"
+  },
+  "988f4b19fc0f2ff61b1f7e42b41cf37a0e6cc7fedc6210f9fc2271b890bd7d36": {
+    "id": "img-1375-988f4b19",
+    "storage": "r2",
+    "source": "IMG_1375.jpg",
+    "ingestedAt": "2026-10-13T21:18:56.260Z"
+  },
+  "3a18e1f3e00398d2acd35e158f0493dd2d141324d76b6e1a2de2b336d4aedba1": {
+    "id": "img-1377-3a18e1f3",
+    "storage": "r2",
+    "source": "IMG_1377.jpg",
+    "ingestedAt": "2026-10-13T21:18:59.550Z"
+  },
+  "245887b312db8ff2409b21bd5419340b9dbb5e1a35807a44565c6b034e3ed7a2": {
+    "id": "img-1379-245887b3",
+    "storage": "r2",
+    "source": "IMG_1379.jpg",
+    "ingestedAt": "2026-10-13T21:19:11.037Z"
+  },
+  "74ed3269e3791318c2c16718d1cc99e200083b0b7a6c73767b0ea6bdbf3f041b": {
+    "id": "img-1381-74ed3269",
+    "storage": "r2",
+    "source": "IMG_1381.jpg",
+    "ingestedAt": "2026-10-13T21:19:18.909Z"
+  },
+  "aebe20c6fb84c2437143c4a285edf4734475168772c05267d03c6e413e6d461b": {
+    "id": "img-1388-aebe20c6",
+    "storage": "r2",
+    "source": "IMG_1388.jpg",
+    "ingestedAt": "2026-10-13T21:19:25.475Z"
+  },
+  "84810243c07ea4008c7787ab4ec109d6c34b6ead6d53d4f341ab707facd33838": {
+    "id": "img-1635-84810243",
+    "storage": "r2",
+    "source": "IMG_1635.jpg",
+    "ingestedAt": "2026-10-13T21:19:29.009Z"
   }
 }
