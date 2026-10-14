@@ -1,0 +1,38 @@
+{
+  "title": "F-35 Banking Climb",
+  "alt": "F-35 fighter in a steep banking climb seen from below, vapor curling off its wing against a dark graduated sky",
+  "date": "2026-10-11T02:26:27.450Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2055,
+    "height": 3083,
+    "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASoYACQAPzmGuVQvKSWkNVQIAeAnCWkAAJ3ux5s4e6veLaiq9SqAAP5XVt4iOQbALVU8npbIKGRn3P7SwliBTIkXCsc8BS/pbf4PmdYmpWZbYSIhtGGtzyO57EcAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4178-886b0887/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4178-886b0887/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4178-886b0887/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4178-886b0887/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4178-886b0887/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4178-886b0887/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "370mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/4000s",
+    "iso": 800
+  },
+  "tags": []
+}

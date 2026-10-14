@@ -1,0 +1,38 @@
+{
+  "title": "F-35 Plunge",
+  "alt": "F-35 pointed straight down in a dive, seen from behind, two thin vapor trails streaming above it against a gradient from pale grey to black",
+  "date": "2026-10-11T02:27:00.500Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2972,
+    "height": 4459,
+    "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABQBQCdASoYACQAPzGIt1OuqaWsNVgIAdAmCWkAz6AWWqlLD/xqbHvzNS/gIB+5TGQX6oAA/tNMo67tJrhZRbHJj6w5zauEcugN0HSURgjKElsEUTfAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4194-8f16f529/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4194-8f16f529/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4194-8f16f529/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4194-8f16f529/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4194-8f16f529/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4194-8f16f529/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "370mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/4000s",
+    "iso": 800
+  },
+  "tags": []
+}

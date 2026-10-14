@@ -7,17 +7,17 @@
   "image": {
     "width": 1339,
     "height": 2010,
-    "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASoYACQAPzGKtVOuqqUitVgIAdAmCWcAyFwRosWVk2abqy2wFZPWYqHi7QAAwtOwBthldltUsWBgHi597iRSb4AUu3xBpHhVCj8+NPxxC06+iu8WbS7Kq2cazx99xAAA",
+    "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBQCdASoYACQAPyWAtFOuKKUoNUgBwCSJZwDE2CNFcWjJiofjpkgTSS9slGJAPWsAAMLWCKjmK0tPUKS5ES6Vh4hOgQrU3AB/kQH53RfztVwsgehCjQg2JGZ/SNv4AAA=",
     "variants": [
       {
         "width": 640,
-        "avif": "https://images.edj-photo.com/photos/img-4447-740ac155/640.avif",
-        "webp": "https://images.edj-photo.com/photos/img-4447-740ac155/640.webp"
+        "avif": "https://images.edj-photo.com/photos/img-4447-b1c924b1/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4447-b1c924b1/640.webp"
       },
       {
         "width": 1080,
-        "avif": "https://images.edj-photo.com/photos/img-4447-740ac155/1080.avif",
-        "webp": "https://images.edj-photo.com/photos/img-4447-740ac155/1080.webp"
+        "avif": "https://images.edj-photo.com/photos/img-4447-b1c924b1/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4447-b1c924b1/1080.webp"
       }
     ]
   },

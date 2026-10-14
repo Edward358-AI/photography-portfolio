@@ -1,0 +1,43 @@
+{
+  "title": "F-35 in Profile",
+  "alt": "F-35 in a clean side profile, banking slightly, against a dark storm-grey sky",
+  "date": "2026-10-11T02:27:56.490Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 4075,
+    "height": 2716,
+    "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQBACdASoYABAAPzmKulOvKaWisAgB4CcJZwDE2CF5z248CT4OtYpAAAD+Ucb2fmJclEfpCHaFyaymsdjtrW0AAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4211-fe830360/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4211-fe830360/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4211-fe830360/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4211-fe830360/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4211-fe830360/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4211-fe830360/1920.webp"
+      },
+      {
+        "width": 3840,
+        "avif": "https://images.edj-photo.com/photos/img-4211-fe830360/3840.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4211-fe830360/3840.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "370mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/4000s",
+    "iso": 640
+  },
+  "tags": []
+}
