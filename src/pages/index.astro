@@ -2,11 +2,27 @@
 import { getCollection } from 'astro:content';
 import Gallery from '../components/Gallery.astro';
 import Base from '../layouts/Base.astro';
-import { SITE } from '../site.config';
+import { CATEGORIES, SITE } from '../site.config';
 
-const all = (await getCollection('photos')).sort((a, b) => +b.data.date - +a.data.date);
-const featured = all.filter((p) => p.data.featured);
-const showcase = (featured.length ? featured : all).slice(0, 9);
+const all = await getCollection('photos');
+const featured = all.filter((p) => p.data.featured).sort((a, b) => +b.data.date - +a.data.date);
+
+function shuffle<T>(items: T[]): T[] {
+  const a = [...items];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/* Random sample balanced across categories, shuffled together. The site is
+ * static, so the selection is re-rolled on every deploy (not per visit). */
+const PER_CATEGORY = 2;
+const sample = shuffle(
+  CATEGORIES.flatMap((c) => shuffle(all.filter((p) => p.data.category === c)).slice(0, PER_CATEGORY)),
+);
+const showcase = featured.length ? featured.slice(0, 10) : sample;
 const og = showcase[0]?.data.image.variants.find((v) => v.width >= 1080)?.webp;
 ---
 
@@ -35,7 +51,7 @@ const og = showcase[0]?.data.image.variants.find((v) => v.width >= 1080)?.webp;
   <section class="mt-4">
     <div class="mb-5 flex items-baseline justify-between">
       <h2 class="font-display text-xl font-semibold tracking-tight">
-        {featured.length ? 'Featured work' : 'Recent work'}
+        {featured.length ? 'Featured work' : 'A sample of my work'}
       </h2>
       <a href="/photos/" class="text-sm text-muted transition-colors hover:text-accent">All photos →</a>
     </div>
