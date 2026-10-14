@@ -1,0 +1,38 @@
+{
+  "title": "Snowbirds Split the Sky",
+  "alt": "Seven Canadian Forces Snowbirds jets in a loose formation, one rolled to show its white underside, smoke trails behind two of them, against a deep blue sky",
+  "date": "2025-10-10T03:15:44.630Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2401,
+    "height": 3001,
+    "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQBACdASoYAB4APzmWwVmvKqcjqAgB4CcJZQC/OA0Xu2W+0ZCMbeYpJq4fCAAA/p7D3G2unUUUeoN2pMksmxw4U7ANeGzwQal2p2jN2ywphp21VMV+ZzU+hAAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3215-e39e99b8/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3215-e39e99b8/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3215-e39e99b8/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3215-e39e99b8/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-3215-e39e99b8/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3215-e39e99b8/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/2500s",
+    "iso": 200
+  },
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "title": "F-35 Peels Away",
+  "alt": "F-35 fighter in a banking turn seen from above and to the side, against a dark graduated sky",
+  "date": "2026-10-11T02:32:39.770Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2196,
+    "height": 1464,
+    "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAwCdASoYABAAPzmIvlSvKSajMAgB4CcJZwC7ABnVGpKBkrZ8DcAA/tlYM2uN2ORiDcvSvo/9kTo+GgcSY0AA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4282-3e1056f2/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4282-3e1056f2/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4282-3e1056f2/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4282-3e1056f2/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4282-3e1056f2/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4282-3e1056f2/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "247mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/3200s",
+    "iso": 640
+  },
+  "tags": []
+}

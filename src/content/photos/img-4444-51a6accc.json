@@ -1,0 +1,38 @@
+{
+  "title": "F-35 in Black and White",
+  "alt": "Black-and-white view of an F-35 from behind and below in a steep climb, small vapor wisps curling from its wingtips",
+  "date": "2026-10-11T02:39:30.340Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2729,
+    "height": 1819,
+    "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAABwAwCdASoYABAAPzmEuVOvKKWisAgB4CcJaQDKABuYxnusXEAA/nFp5vRZ84Del9hjeAvZI+rQyYiIDvvgAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4444-51a6accc/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4444-51a6accc/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4444-51a6accc/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4444-51a6accc/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4444-51a6accc/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4444-51a6accc/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "439mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/3200s",
+    "iso": 640
+  },
+  "tags": []
+}

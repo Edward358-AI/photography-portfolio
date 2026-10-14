@@ -1,0 +1,33 @@
+{
+  "title": "F-35 Sidelong Climb",
+  "alt": "F-35 in a steep climb seen from the side and below, nose up and tilted, against a smooth blue-grey sky",
+  "date": "2026-10-11T02:39:40.460Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 1677,
+    "height": 2515,
+    "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASoYACQAPzGItlOuv6UoNVgIA/AmCWcA0YAUMkLjb/D7a+20Yiu8AADw06RW260V5llxDPDHBbF5LBZ0ALg1ThX+BFioDnJ5AP2v59gVHNdeYp7bZVRuTi+oAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4452-77764ec1/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4452-77764ec1/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4452-77764ec1/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4452-77764ec1/1080.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "267mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/3200s",
+    "iso": 500
+  },
+  "tags": []
+}

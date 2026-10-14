@@ -1,0 +1,38 @@
+{
+  "title": "F-35 Vapor Cone",
+  "alt": "F-35 fighter seen from above in a hard turn, a cloud of condensation vapor wrapping over its wing against a grey-blue sky",
+  "date": "2026-10-11T02:25:39.220Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 3303,
+    "height": 2202,
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABQAwCdASoYABAAPzmIuVOvKSWisAgB4CcJZQCdABM+7WKwAAD28+saUdjL1IxC9mmmbRM3lPPjt+K+yt1TmQTuwW5mggAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4166-93c5ecae/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4166-93c5ecae/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4166-93c5ecae/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4166-93c5ecae/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4166-93c5ecae/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4166-93c5ecae/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "313mm",
+    "aperture": "f/7.1",
+    "shutterSpeed": "1/4000s",
+    "iso": 640
+  },
+  "tags": []
+}

@@ -1,0 +1,33 @@
+{
+  "title": "F-35 Vertical Climb",
+  "alt": "F-35 pointed nearly straight up, seen from below with its belly doors open, against a graduated blue-grey sky",
+  "date": "2026-10-11T02:39:36.840Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 1357,
+    "height": 2038,
+    "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASoYACQAPzGItFOuqaUsNVgIAdAmCWcAz9wRariH4TQnslpSA/zgANq85JIyNmxzJySiWNRvM2EKApUpsepv0giWZ2A+txMlJU10zowYcMtoSTDuaNKQpe1VaVExR9+CMAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4451-48d7652e/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4451-48d7652e/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4451-48d7652e/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4451-48d7652e/1080.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "313mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/3200s",
+    "iso": 640
+  },
+  "tags": []
+}

@@ -1,0 +1,33 @@
+{
+  "title": "F-35 Underbelly",
+  "alt": "F-35 seen from below in a steep climb, its belly doors open, against a dark blue-grey sky",
+  "date": "2026-10-11T02:39:33.740Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 1339,
+    "height": 2010,
+    "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASoYACQAPzGKtVOuqqUitVgIAdAmCWcAyFwRosWVk2abqy2wFZPWYqHi7QAAwtOwBthldltUsWBgHi597iRSb4AUu3xBpHhVCj8+NPxxC06+iu8WbS7Kq2cazx99xAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4447-740ac155/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4447-740ac155/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4447-740ac155/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4447-740ac155/1080.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "313mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/3200s",
+    "iso": 640
+  },
+  "tags": []
+}
