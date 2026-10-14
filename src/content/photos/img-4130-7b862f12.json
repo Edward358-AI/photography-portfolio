@@ -1,0 +1,33 @@
+{
+  "title": "F-35 Vapor Trails",
+  "alt": "F-35 fighter climbing straight up, seen in planform, with two thin vapor trails streaming below it against a graduated blue-grey sky",
+  "date": "2026-10-11T02:22:59.200Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 1455,
+    "height": 2183,
+    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwBACdASoYACQAPzGGtFOuqaSitVgIAdAmCWcAuwAWbRx0Idg0r9b1EQPSGRQDtwAA/q8DyvGrUuNq1ijwojl7mG3aHM8BoS3QVdn/F5fNGTzN9kocq0tEQ8GiHLAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4130-7b862f12/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4130-7b862f12/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4130-7b862f12/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4130-7b862f12/1080.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "267mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/2000s",
+    "iso": 400
+  },
+  "tags": []
+}
