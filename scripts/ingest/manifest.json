@@ -677,12 +677,6 @@
     "source": "IMG_4194.jpg",
     "ingestedAt": "2026-10-14T21:14:25.139Z"
   },
-  "fe8303603714a8d525cbf66205cc7201a38d9297f142c8729ad424dd9f7bf9d9": {
-    "id": "img-4211-fe830360",
-    "storage": "r2",
-    "source": "IMG_4211.jpg",
-    "ingestedAt": "2026-10-14T21:14:28.370Z"
-  },
   "02f5aa1aaaaae8be084e93aec7d1ca07de9ec2ee46c7d760a23f9db3e21c52d3": {
     "id": "img-4262-02f5aa1a",
     "storage": "r2",
@@ -748,5 +742,11 @@
     "storage": "r2",
     "source": "IMG_4877.jpg",
     "ingestedAt": "2026-10-16T07:34:03.880Z"
+  },
+  "85efd466db89ac361b83d1841d711a7d04cd55873e9bd913df29132f32039f4e": {
+    "id": "img-4211-85efd466",
+    "storage": "r2",
+    "source": "IMG_4211.jpg",
+    "ingestedAt": "2026-10-16T07:38:01.605Z"
   }
 }
