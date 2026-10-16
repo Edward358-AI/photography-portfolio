@@ -1,0 +1,38 @@
+{
+  "title": "F-35B Hover",
+  "alt": "F-35B in a nose-high hover, landing gear down and the lift-fan doors open behind the cockpit, against a blue-grey gradient sky",
+  "date": "2026-10-11T02:36:03.680Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1365,
+    "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAwCdASoYABAAPzmIvlSvKSajMAgB4CcJZQCo9CGl+jfcLXtY2AD+1A6jJVlnXO+hyim7lWOxtUuoJLdM+xAgAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4340-f65dd2ed/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4340-f65dd2ed/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4340-f65dd2ed/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4340-f65dd2ed/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4340-f65dd2ed/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4340-f65dd2ed/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "439mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/3200s",
+    "iso": 500
+  },
+  "tags": []
+}
