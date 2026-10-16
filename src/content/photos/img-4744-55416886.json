@@ -1,0 +1,38 @@
+{
+  "title": "United 777 Climbing Into the Clouds",
+  "alt": "United Boeing 777 climbing steeply, seen from below, against deep blue sky and billowing white clouds",
+  "date": "2026-10-11T03:05:03.070Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1362,
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoYABAAPzmEuVOvKKWisAgB4CcJYgCdABX6ef2pqEadMAD8XaaTZVaYdnnSIJYkr7uC5hgUDVOKaQ1PBOPDUWTmImVHGVGLaLVvR4AA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4744-55416886/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4744-55416886/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4744-55416886/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4744-55416886/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4744-55416886/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4744-55416886/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/3200s",
+    "iso": 800
+  },
+  "tags": []
+}

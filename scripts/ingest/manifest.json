@@ -569,12 +569,6 @@
     "source": "IMG_0925.jpg",
     "ingestedAt": "2026-10-13T21:17:39.649Z"
   },
-  "96a647eddb0a49799c0c5325e03b84d08e74045ea9ecfe9f7bacf2a894df5927": {
-    "id": "img-4877-96a647ed",
-    "storage": "r2",
-    "source": "IMG_4877.jpg",
-    "ingestedAt": "2026-10-13T21:17:45.808Z"
-  },
   "790e8dba514dac3b164d0a834a7e54e5f0f3eb91f510cda3ef7ba71f1b4ca195": {
     "id": "img-5475-790e8dba",
     "storage": "r2",
@@ -671,12 +665,6 @@
     "source": "IMG_4130.jpg",
     "ingestedAt": "2026-10-14T21:14:18.355Z"
   },
-  "8acc3afeb05091720e1e98db75e10939d1a272a56284e007a60558e6da37ca9a": {
-    "id": "img-4166-8acc3afe",
-    "storage": "r2",
-    "source": "IMG_4166.jpg",
-    "ingestedAt": "2026-10-14T21:14:20.357Z"
-  },
   "886b0887975b69087b6ed5b9c453fe9fb6d1d248215bebced09ca0c6609c06ad": {
     "id": "img-4178-886b0887",
     "storage": "r2",
@@ -730,5 +718,35 @@
     "storage": "r2",
     "source": "IMG_4452.jpg",
     "ingestedAt": "2026-10-14T21:14:37.178Z"
+  },
+  "6dfb5d4db365bbae5ef46ee4b4114ad575aa771b262d5564fcf4b1a881db08f2": {
+    "id": "img-2680-6dfb5d4d",
+    "storage": "r2",
+    "source": "IMG_2680.jpg",
+    "ingestedAt": "2026-10-16T07:33:53.397Z"
+  },
+  "0881d02885845c120b87a62674b911834319b909204ef984542e47b6aa134645": {
+    "id": "img-4166-0881d028",
+    "storage": "r2",
+    "source": "IMG_4166.jpg",
+    "ingestedAt": "2026-10-16T07:33:55.481Z"
+  },
+  "9cca86c53baf45cda67736ee66aaaca3133b43865751c67b6a175f486fa324da": {
+    "id": "img-4738-9cca86c5",
+    "storage": "r2",
+    "source": "IMG_4738.jpg",
+    "ingestedAt": "2026-10-16T07:33:57.769Z"
+  },
+  "5541688688d7d3e0ad93f81b859e4846d790e031f1639e4632aac4b0dba09ad3": {
+    "id": "img-4744-55416886",
+    "storage": "r2",
+    "source": "IMG_4744.jpg",
+    "ingestedAt": "2026-10-16T07:34:00.402Z"
+  },
+  "2ea09204f7883bada7fd41c902281f2c499293a92aa247de45bfffe9f76d88b3": {
+    "id": "img-4877-2ea09204",
+    "storage": "r2",
+    "source": "IMG_4877.jpg",
+    "ingestedAt": "2026-10-16T07:34:03.880Z"
   }
 }

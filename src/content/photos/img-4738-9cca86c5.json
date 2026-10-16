@@ -1,0 +1,38 @@
+{
+  "title": "United 777 in Profile",
+  "alt": "United Boeing 777-300ER in clean side profile climbing against a deep blue sky that fades to pale blue near the bottom",
+  "date": "2026-10-11T02:53:19.610Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1365,
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwBACdASoYABAAPzmGulQvKSWjMAgB4CcJYgCdMoMljEmKc47DAsGgOgAA/uLURCpjUCv3tYyfg38aacDE9RSQv8bDqbCExHPaeGVgeVAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-4738-9cca86c5/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4738-9cca86c5/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-4738-9cca86c5/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4738-9cca86c5/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-4738-9cca86c5/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-4738-9cca86c5/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/2500s",
+    "iso": 400
+  },
+  "tags": []
+}

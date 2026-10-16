@@ -1,0 +1,33 @@
+{
+  "title": "United 777 and the Hill",
+  "alt": "United Boeing 777 climbing past a dark hillside dotted with houses, against a deep blue sky that fades to pale haze at the horizon",
+  "date": "2026-10-11T00:13:32.330Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 1152,
+    "height": 2048,
+    "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwBgCdASoYACsAPzmQvlevKaYjqrgKAeAnCWMAtOgLNqw0oYUP41Kt669O5CJ5u8b6TMC8mCjoMaFagAAA/tjaijs+NOWDmBZSuWiMBwpGMo/BHV//dDSjYDKGm0RcXxo1oDuuLFgBweZ9DvwSk1JAw+IlhtAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-2680-6dfb5d4d/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2680-6dfb5d4d/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-2680-6dfb5d4d/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2680-6dfb5d4d/1080.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/2000s",
+    "iso": 125
+  },
+  "tags": []
+}
