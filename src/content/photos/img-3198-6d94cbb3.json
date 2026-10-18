@@ -1,0 +1,33 @@
+{
+  "title": "Snowbird Steep Bank",
+  "alt": "Canadian Forces Snowbirds Tutor jet in a steep banking climb seen from below, against a sky fading from pale to dark",
+  "date": "2025-10-10T03:13:29.740Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 1365,
+    "height": 2048,
+    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBQCdASoYACQAPzGGtlOuqaUoNVgIAdAmCWMAyrQWbMa7ZceGmVn+1apuRvVT2IMAAP7eh+RHF4J4HSAADV/F4BiwCuAhXkx/lTS07oxZ/nJSTxy6IEzn9KimtgAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3198-6d94cbb3/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3198-6d94cbb3/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3198-6d94cbb3/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3198-6d94cbb3/1080.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "198mm",
+    "aperture": "f/5.6",
+    "shutterSpeed": "1/2500s",
+    "iso": 640
+  },
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "title": "United 777 Steep Climb",
+  "alt": "United Boeing 777 in a steep banked climb against a sky that darkens from pale blue to deep navy",
+  "date": "2026-10-11T00:10:34.710Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1365,
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYABAAPzmGu1QvKSYjMAgB4CcJQBOmUABTref6lwjtEIAA/ZJOj5S9YvJXJMB5ASr3s4fVtsUPFiOUCEcdKZOIwtq9wXXOMHAAAA==",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-2622-81a60141/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2622-81a60141/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-2622-81a60141/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2622-81a60141/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-2622-81a60141/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-2622-81a60141/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/5",
+    "shutterSpeed": "1/2000s",
+    "iso": 125
+  },
+  "tags": []
+}

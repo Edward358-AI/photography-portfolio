@@ -1,0 +1,38 @@
+{
+  "title": "Snowbirds in B&W",
+  "alt": "Black-and-white view of a formation of Snowbirds jets banking together under a heavy grey sky, smoke trails streaming off to the right",
+  "date": "2025-10-10T02:58:55.900Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1365,
+    "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAwCdASoYABAAPzmQvlWvKqajMAgB4CcJaQAASLWBsoK5UJAAAOt4XhekWOav6H7fIdIkv2TLf9AAAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3075-2-6e828da1/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3075-2-6e828da1/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3075-2-6e828da1/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3075-2-6e828da1/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-3075-2-6e828da1/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3075-2-6e828da1/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/5.6",
+    "shutterSpeed": "1/2500s",
+    "iso": 200
+  },
+  "tags": []
+}

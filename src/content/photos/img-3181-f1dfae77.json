@@ -1,0 +1,33 @@
+{
+  "title": "Snowbird Directly Overhead",
+  "alt": "Canadian Forces Snowbirds Tutor jet seen from directly below, its red and white underside marked RCAF ARC, against a sky fading from pale to deep blue",
+  "date": "2025-10-10T03:11:54.020Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 1365,
+    "height": 2048,
+    "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASoYACQAPzmMulQvKiYjKrgN+eAnCUAXYAEE3I5jT7EMuHenGWUAAP7Th9dVb1pso/6jkaHrzDb3DvrvQgwLLkAtruMdrEQDbcZG6oYW95HZeg2t5q1OYmyhXaFcMEAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3181-f1dfae77/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3181-f1dfae77/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3181-f1dfae77/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3181-f1dfae77/1080.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "198mm",
+    "aperture": "f/5.6",
+    "shutterSpeed": "1/2500s",
+    "iso": 640
+  },
+  "tags": []
+}

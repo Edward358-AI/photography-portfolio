@@ -1,0 +1,38 @@
+{
+  "title": "Snowbirds in Close Formation",
+  "alt": "Snowbirds jets flying in tight formation, numbered tails and red-and-white undersides visible, against a deep blue sky",
+  "date": "2025-10-10T03:19:09.590Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1365,
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwBACdASoYABAAPzmGuVOvKSWisAgB4CcJZgCdMoRwACIcj8NT5N2k8AAA/ov56dTGaauS3I0lOZU0VCL8jpruB0W43rjjAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3257-ac8ed165/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3257-ac8ed165/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3257-ac8ed165/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3257-ac8ed165/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-3257-ac8ed165/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3257-ac8ed165/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "150mm",
+    "aperture": "f/5.6",
+    "shutterSpeed": "1/2000s",
+    "iso": 320
+  },
+  "tags": []
+}
