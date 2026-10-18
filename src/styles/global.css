@@ -66,6 +66,11 @@ body {
   --row-h: 17rem;
 }
 
+/* homepage shuffle: avoid a flash of the build-time sample before the script reorders it */
+.js .gallery[data-shuffle]:not([data-ready]) {
+  visibility: hidden;
+}
+
 .gallery::after {
   /* absorbs leftover space so the last row keeps natural sizing */
   content: "";

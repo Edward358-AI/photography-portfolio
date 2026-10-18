@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Gallery from '../components/Gallery.astro';
+import PhotoCard from '../components/PhotoCard.astro';
 import Base from '../layouts/Base.astro';
 import { CATEGORIES, SITE } from '../site.config';
 
@@ -16,13 +17,26 @@ function shuffle<T>(items: T[]): T[] {
   return a;
 }
 
-/* Random sample balanced across categories, shuffled together. The site is
- * static, so the selection is re-rolled on every deploy (not per visit). */
+/* The homepage shows PER_CATEGORY random photos from every category.
+ *
+ * The build picks a pool of POOL_PER_CATEGORY per category (re-rolled on every
+ * deploy). The first PER_CATEGORY of each are rendered visibly, so the page is
+ * complete with JavaScript off. The rest sit in a hidden pool, and a tiny
+ * inline script re-picks from the whole pool on every page load.
+ *
+ * Any photo marked `featured: true` switches this off and shows those instead. */
 const PER_CATEGORY = 2;
-const sample = shuffle(
-  CATEGORIES.flatMap((c) => shuffle(all.filter((p) => p.data.category === c)).slice(0, PER_CATEGORY)),
+const POOL_PER_CATEGORY = 10;
+
+const poolByCategory = CATEGORIES.map((c) =>
+  shuffle(all.filter((p) => p.data.category === c)).slice(0, POOL_PER_CATEGORY),
 );
-const showcase = featured.length ? featured.slice(0, 10) : sample;
+const sample = shuffle(poolByCategory.flatMap((list) => list.slice(0, PER_CATEGORY)));
+const inSample = new Set(sample.map((p) => p.id));
+const extras = poolByCategory.flat().filter((p) => !inSample.has(p.id));
+
+const randomized = featured.length === 0;
+const showcase = randomized ? sample : featured.slice(0, 10);
 const og = showcase[0]?.data.image.variants.find((v) => v.width >= 1080)?.webp;
 ---
 
@@ -55,6 +69,53 @@ const og = showcase[0]?.data.image.variants.find((v) => v.width >= 1080)?.webp;
       </h2>
       <a href="/photos/" class="text-sm text-muted transition-colors hover:text-accent">All photos →</a>
     </div>
-    <Gallery photos={showcase} eagerCount={6} />
+    {randomized && <script is:inline>document.documentElement.classList.add('js')</script>}
+    {/* Randomized: every card is lazy; the script below marks the real first six eager. */}
+    <Gallery photos={showcase} eagerCount={randomized ? 0 : 6} shuffle={randomized} />
+    {
+      randomized && (
+        <div id="pool" hidden>
+          {extras.map((photo) => (
+            <PhotoCard photo={photo} />
+          ))}
+        </div>
+      )
+    }
+    {
+      randomized && (
+        <script is:inline define:vars={{ perCategory: PER_CATEGORY }}>
+(() => {
+  const g = document.querySelector('.gallery[data-shuffle]');
+  const pool = document.getElementById('pool');
+  try {
+    if (!g || !pool) return;
+    const shuffle = (a) => {
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    };
+    const cards = [...g.children, ...pool.children].filter((c) => c.classList.contains('card'));
+    const byCat = {};
+    for (const c of cards) (byCat[c.dataset.category] = byCat[c.dataset.category] || []).push(c);
+    const picks = shuffle(Object.values(byCat).flatMap((list) => shuffle(list).slice(0, perCategory)));
+    const keep = new Set(picks);
+    for (const c of cards) if (!keep.has(c)) pool.append(c);
+    picks.forEach((c, i) => {
+      g.append(c);
+      if (i < 6) {
+        const img = c.querySelector('img');
+        img.loading = 'eager';
+        img.fetchPriority = 'high';
+      }
+    });
+  } finally {
+    if (g) g.dataset.ready = '';
+  }
+})();
+        </script>
+      )
+    }
   </section>
 </Base>

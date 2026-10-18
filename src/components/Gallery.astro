@@ -5,16 +5,18 @@ import PhotoCard from './PhotoCard.astro';
 interface Props {
   photos: CollectionEntry<'photos'>[];
   eagerCount?: number;
+  /** Homepage only: a script reshuffles the cards on each page load. */
+  shuffle?: boolean;
 }
 
-const { photos, eagerCount = 4 } = Astro.props;
+const { photos, eagerCount = 4, shuffle = false } = Astro.props;
 ---
 
 {
   photos.length === 0 ? (
     <p class="py-16 text-center text-muted">No photos here yet.</p>
   ) : (
-    <div class="gallery">
+    <div class="gallery" data-shuffle={shuffle ? "" : undefined}>
       {photos.map((photo, i) => (
         <PhotoCard photo={photo} eager={i < eagerCount} />
       ))}
