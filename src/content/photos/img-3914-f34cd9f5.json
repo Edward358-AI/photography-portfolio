@@ -1,0 +1,38 @@
+{
+  "title": "F-22 and Three Flares",
+  "alt": "F-22 Raptor diving steeply past three flares whose bright heads and smoke trails streak across a dark gradient sky",
+  "date": "2026-10-11T01:54:15.680Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1365,
+    "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAwCdASoYABAAPzmQvlWvKqajMAgB4CcJZwDA3CHd2VvDKOg6cgMAAP7oz46MoqGXzWDwEBQSUXR0QkH4TAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3914-f34cd9f5/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3914-f34cd9f5/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3914-f34cd9f5/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3914-f34cd9f5/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-3914-f34cd9f5/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3914-f34cd9f5/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "229mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/3200s",
+    "iso": 800
+  },
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "title": "F-22 Hard Bank",
+  "alt": "F-22 Raptor in a hard banking turn seen from below, its grey camouflage and twin tails visible against a dark grey sky",
+  "date": "2026-10-11T01:59:16.820Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1365,
+    "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAwCdASoYABAAPzmIvlSvKSajMAgB4CcJZwDE2BXmMP+PioivgAD3G8rbesU/3GoJYbGDrw0NGBbfUAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3974-9efcbb62/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3974-9efcbb62/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3974-9efcbb62/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3974-9efcbb62/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-3974-9efcbb62/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3974-9efcbb62/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "267mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/2500s",
+    "iso": 500
+  },
+  "tags": []
+}

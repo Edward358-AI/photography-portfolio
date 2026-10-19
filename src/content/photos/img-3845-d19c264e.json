@@ -1,0 +1,38 @@
+{
+  "title": "F-22 Bay Doors Open",
+  "alt": "Sepia view of an F-22 Raptor banking with its internal weapons bay open, the missile racks visible inside the fuselage",
+  "date": "2026-10-11T01:50:38.270Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 2048,
+    "height": 1365,
+    "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoYABAAPzmGulOvKSWisAgB4CcJZwDG9BdiOdj1ZeQAAP7e2ZS4QgWXLSMrjKuZFUVaSAE/tTVQ/z8D9gBlQbovUabXAAAA",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3845-d19c264e/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3845-d19c264e/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3845-d19c264e/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3845-d19c264e/1080.webp"
+      },
+      {
+        "width": 1920,
+        "avif": "https://images.edj-photo.com/photos/img-3845-d19c264e/1920.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3845-d19c264e/1920.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "289mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/2500s",
+    "iso": 500
+  },
+  "tags": []
+}

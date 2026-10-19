@@ -1,0 +1,33 @@
+{
+  "title": "F-22 Flare Drop",
+  "alt": "Black-and-white F-22 Raptor climbing nose-up above a single bright flare and the long smoke trail it left behind, against a sky fading from dark to pale",
+  "date": "2026-10-11T01:52:36.240Z",
+  "category": "aviation",
+  "featured": false,
+  "image": {
+    "width": 1365,
+    "height": 2048,
+    "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoYACQAPzGGuVOuqaYisAqp0CYJaQAAW+s7slByJUJIFgAA/ui70I/ZBqUSsz4V/48y/n/F+YITAG5e9mm3wMj/YWtCBLeHAAA=",
+    "variants": [
+      {
+        "width": 640,
+        "avif": "https://images.edj-photo.com/photos/img-3866-4e52b1ed/640.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3866-4e52b1ed/640.webp"
+      },
+      {
+        "width": 1080,
+        "avif": "https://images.edj-photo.com/photos/img-3866-4e52b1ed/1080.avif",
+        "webp": "https://images.edj-photo.com/photos/img-3866-4e52b1ed/1080.webp"
+      }
+    ]
+  },
+  "exif": {
+    "camera": "Canon EOS R50",
+    "lens": "150.0-500.0 mm",
+    "focalLength": "186mm",
+    "aperture": "f/8",
+    "shutterSpeed": "1/2500s",
+    "iso": 800
+  },
+  "tags": []
+}
